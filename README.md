@@ -17,6 +17,10 @@ Solihint
 
 CTRL + ALT + S
 
+# VS Code
+
+https://stackoverflow.com/questions/45932042/frustration-with-inconsistent-emmet-results-in-vscode
+
 
 # GitHub
 
