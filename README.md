@@ -1,7 +1,12 @@
 # IDEA Intellij
 
-Live templates
-Emmet
+## Live templates
+
+console.log($END$);
+
+
+## Emmet
+
 Lorem*5 <tab>
 
 
