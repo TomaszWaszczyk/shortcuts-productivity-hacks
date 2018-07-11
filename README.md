@@ -62,6 +62,9 @@ git branch -d local_branch
 
 git checkout -b name_of_just_created_branch - create and change branch
 
+# Linux
+
+CTRL + U - delete command in terminal
 
 # GitHub
 
