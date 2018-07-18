@@ -54,6 +54,8 @@ ALT + F7 - find usages
 
 https://stackoverflow.com/questions/45932042/frustration-with-inconsistent-emmet-results-in-vscode
 
+https://github.com/formulahendry/vscode-code-runner => CTRL + ALT + N
+
 # GIT
 
 git branch
