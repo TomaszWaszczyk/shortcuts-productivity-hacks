@@ -68,6 +68,8 @@ git checkout -b name_of_just_created_branch - create and change branch
 
 CTRL + U - delete command in terminal
 
+Files expolorer: CTRL + H - show/hide hidden files/directories
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
