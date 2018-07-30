@@ -70,7 +70,9 @@ CTRL + U - delete command in terminal
 
 Files expolorer: CTRL + H - show/hide hidden files/directories
 
-du -hs <directory> - size of directory
+$ du -hs <directory> - size of directory
+  
+$ which <application> - check location of application  
   
 
 # GitHub
