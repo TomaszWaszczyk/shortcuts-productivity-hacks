@@ -70,6 +70,9 @@ CTRL + U - delete command in terminal
 
 Files expolorer: CTRL + H - show/hide hidden files/directories
 
+du -hs <directory> - size of directory
+  
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
