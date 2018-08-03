@@ -56,6 +56,8 @@ https://stackoverflow.com/questions/45932042/frustration-with-inconsistent-emmet
 
 https://github.com/formulahendry/vscode-code-runner => CTRL + ALT + N
 
+Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
 # GIT
 
 git branch
