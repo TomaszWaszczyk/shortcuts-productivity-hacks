@@ -58,6 +58,13 @@ https://github.com/formulahendry/vscode-code-runner => CTRL + ALT + N
 
 Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 
+CTRL + SHIFT + B - Gulp's builds
+
+
+# DevTools - Google Chrome
+
+CTRL + SHIFT + M - mobile/responsive view
+
 # GIT
 
 git branch
