@@ -83,7 +83,7 @@ $ du -hs <directory> - size of directory
   
 $ which <application> - check location of application  
 
-## Byobu - multiterminal
+## Byobu - multiterminal - http://www.byobu.co/
 
 Shift+F2 -> To split the current windows into horizontal splits.
 
