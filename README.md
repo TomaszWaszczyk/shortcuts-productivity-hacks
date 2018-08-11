@@ -82,7 +82,17 @@ Files expolorer: CTRL + H - show/hide hidden files/directories
 $ du -hs <directory> - size of directory
   
 $ which <application> - check location of application  
-  
+
+## Byobu - multiterminal
+
+Shift+F2 -> To split the current windows into horizontal splits.
+
+Ctrl+F2 - > To split the panes into vertical.
+
+Shift+F11 - > To Zoom the windows and back again.
+
+Alt+F11 -> To split a pane in a new window.
+
 
 # GitHub
 
