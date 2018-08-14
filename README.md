@@ -93,6 +93,8 @@ Shift+F11 - > To Zoom the windows and back again.
 
 Alt+F11 -> To split a pane in a new window.
 
+Shift+Alt+[←↑→↓] -> Change size of spits in terminal. 
+
 F9 -> Configuration
 
 # GitHub
