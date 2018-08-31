@@ -99,6 +99,8 @@ F9 -> Configuration
 
 https://stedolan.github.io/jq/
 
+https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
