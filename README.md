@@ -83,7 +83,7 @@ $ du -hs <directory> - size of directory
   
 $ which <application> - check location of application  
 
-## Byobu - multiterminal - http://www.byobu.co/
+Byobu - multiterminal - http://www.byobu.co/ (alternative to Terminator)
 
 Shift+F2 -> To split the current windows into horizontal splits.
 
@@ -96,6 +96,8 @@ Alt+F11 -> To split a pane in a new window.
 Shift+Alt+[←↑→↓] -> Change size of spits in terminal. 
 
 F9 -> Configuration
+
+https://stedolan.github.io/jq/
 
 # GitHub
 
