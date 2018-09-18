@@ -52,6 +52,8 @@ ALT + F7 - find usages
 
 # VS Code
 
+https://stackoverflow.com/questions/31587949/hide-js-map-files-in-visual-studio-code
+
 https://stackoverflow.com/questions/45932042/frustration-with-inconsistent-emmet-results-in-vscode
 
 https://github.com/formulahendry/vscode-code-runner => CTRL + ALT + N
