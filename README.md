@@ -75,6 +75,11 @@ git branch -d local_branch
 
 git checkout -b name_of_just_created_branch - create and change branch
 
+git clean -d -f -x deletes files listed in .gitignore and such. E.g. workspaces that don't belong in git, Pods folder, etc. 
+
+WARNING The command as written above will remove EVERY >UNTRACKED< FILE AND DIRECTORY WITHIN YOUR GIT ROOT, not just "files listed in .gitignore". Anything that is not being tracked by Git, regardless of whether or not it is listed in .gitignore will be wiped. git clean -dfX (note the case on the X) will only remove items which have an applicable rule in .gitignore. Please heed this warning: Never run git clean without either running it in interactive mode, with -i instead of -f, or at least doing a dry run first — -n and then again with -f
+
+
 # Linux
 
 CTRL + U - delete command in terminal
