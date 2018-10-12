@@ -67,6 +67,9 @@ CTRL + SHIFT + B - Gulp's builds
 
 CTRL + SHIFT + M - mobile/responsive view
 
+https://developers.google.com/web/tools/lighthouse/
+
+
 # GIT
 
 git branch
