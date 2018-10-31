@@ -84,6 +84,11 @@ WARNING The command as written above will remove EVERY >UNTRACKED< FILE AND DIRE
 
 Bash completion: sudo apt-get install git bash-completion
 
+git add -A stages all changes
+
+git add . stages new files and modifications, without deletions
+
+git add -u stages modifications and deletions, without new files
 
 # Linux
 
