@@ -124,6 +124,8 @@ du -sh <directory> - disk usage of given directory
   
 netstat -tulpn - open ports
 
+Install TLP - Power management tool for Linux
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
