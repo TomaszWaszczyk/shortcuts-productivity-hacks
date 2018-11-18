@@ -126,6 +126,8 @@ netstat -tulpn - open ports
 
 Install TLP - Power management tool for Linux
 
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize' - enable minimizing 
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
