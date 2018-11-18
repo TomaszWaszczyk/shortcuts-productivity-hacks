@@ -126,6 +126,8 @@ netstat -tulpn - open ports
 
 Install TLP - Power management tool for Linux
 
+sudo apt-get install indicator-cpufreq
+
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize' - enable minimizing 
 
 sudo snap install communitheme
