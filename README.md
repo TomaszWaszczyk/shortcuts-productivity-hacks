@@ -128,6 +128,8 @@ Install TLP - Power management tool for Linux
 
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize' - enable minimizing 
 
+sudo snap install communitheme
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
