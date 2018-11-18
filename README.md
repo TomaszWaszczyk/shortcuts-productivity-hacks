@@ -130,6 +130,10 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize' - 
 
 sudo snap install communitheme
 
+sudo apt install bleachbit
+
+
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
