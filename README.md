@@ -126,6 +126,8 @@ du -sh <directory> - disk usage of given directory
   
 netstat -tulpn - open ports
 
+sudo netstat -tulpn | grep LISTEN
+
 Install TLP - Power management tool for Linux
 
 sudo apt-get install indicator-cpufreq
