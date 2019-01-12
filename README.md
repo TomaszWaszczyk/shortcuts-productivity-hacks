@@ -143,3 +143,8 @@ https://github.com/oguzhaninan/Buka
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
+
+# New Linux installation
+
+1. Firefox - disable title bar (Firefox -> Customie -> Bottom Left "Title bar" -> uncheck)
+
