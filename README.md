@@ -148,3 +148,6 @@ https://github.com/clockfort/GitHub-Backup
 
 1. Firefox - disable title bar (Firefox -> Customie -> Bottom Left "Title bar" -> uncheck)
 
+2. Lock rotation of screen
+
+
