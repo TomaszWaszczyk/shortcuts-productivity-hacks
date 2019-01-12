@@ -150,4 +150,11 @@ https://github.com/clockfort/GitHub-Backup
 
 2. Lock rotation of screen
 
+3. Night light -> ON
+
+4. Install Visual Studio Code (as Debian package)
+
+5. Hide Ubuntu's top bar (Ubuntu Software and find: Hide top bar)
+
+
 
