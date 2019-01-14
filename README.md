@@ -140,6 +140,14 @@ sudo apt install bleachbit
 
 https://github.com/oguzhaninan/Buka
 
+# Q&A
+
+* Kill application under given port
+
+1. sudo netstat -plnt
+
+2. kill -9 <PID>
+
 # GitHub
 
 https://github.com/clockfort/GitHub-Backup
