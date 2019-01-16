@@ -90,6 +90,10 @@ git add . stages new files and modifications, without deletions
 
 git add -u stages modifications and deletions, without new files
 
+git stash clear - delete all stashes
+
+git stash drop <stash_id> - delete given stash
+
 ![](https://github.com/TomaszWaszczyk/keyboard-shortcuts-productive-hacks/blob/master/git-cheat-sheet-large-blue.png?raw=true)
 
 # Linux
