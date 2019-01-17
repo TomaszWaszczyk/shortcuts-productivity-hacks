@@ -168,5 +168,7 @@ https://github.com/clockfort/GitHub-Backup
 
 5. Hide Ubuntu's top bar (Ubuntu Software and find: Hide top bar)
 
+6. sudo apt install curl
 
+7. 
 
