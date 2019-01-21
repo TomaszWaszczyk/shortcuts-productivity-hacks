@@ -170,5 +170,7 @@ https://github.com/clockfort/GitHub-Backup
 
 6. sudo apt install curl
 
-7. 
+7. sudo apt-get install exfat-fuse exfat-utils - Reading SD Card etc.
+
+8. 
 
