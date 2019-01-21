@@ -174,3 +174,8 @@ https://github.com/clockfort/GitHub-Backup
 
 8. 
 
+git config --global user.email "tomaz@waszczyk.com"
+
+git config --global user.name "Tomasz Waszczyk"
+
+
