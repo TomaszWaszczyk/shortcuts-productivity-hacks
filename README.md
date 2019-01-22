@@ -180,4 +180,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 9. Add appropriate entires to ~/.config/user-dirs.dirs
 
-10. 
+10. sudo apt install peek - GIF creation
+
+11. 
+
