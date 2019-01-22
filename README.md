@@ -178,4 +178,6 @@ git config --global user.email "tomaz@waszczyk.com"
 
 git config --global user.name "Tomasz Waszczyk"
 
+9. Add appropriate entires to ~/.config/user-dirs.dirs
 
+10. 
