@@ -184,9 +184,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 11. `gsettings set org.gnome.desktop.calendar show-weekdate true` - show number of week in calendar
 
-12. 
+12. `sudo apt update`
 
-`sudo apt update
-
-sudo apt install gnome-tweak-tool`
+`sudo apt install gnome-tweak-tool`
 
