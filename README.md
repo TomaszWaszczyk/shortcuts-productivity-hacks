@@ -182,5 +182,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 10. sudo apt install peek - GIF creation
 
-11. 
+11. `gsettings set org.gnome.desktop.calendar show-weekdate true` - show number of week in calendar
+
+12. 
 
