@@ -62,6 +62,8 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 CTRL + SHIFT + B - Gulp's builds
 
+ext install esbenp.prettier-vscode
+
 
 # DevTools - Google Chrome
 
