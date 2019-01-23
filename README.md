@@ -186,3 +186,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 12. 
 
+`sudo apt update
+
+sudo apt install gnome-tweak-tool`
+
