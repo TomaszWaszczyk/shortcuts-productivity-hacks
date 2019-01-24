@@ -204,6 +204,8 @@ git config --global user.name "Tomasz Waszczyk"
 
 `alias g f='git fetch origin'`
 
+`alias g p='git pull'`
+
 
 15. 
 
