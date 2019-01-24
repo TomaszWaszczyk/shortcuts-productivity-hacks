@@ -192,5 +192,13 @@ git config --global user.name "Tomasz Waszczyk"
 
 13. `wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash` - install nvm
 
-14. 
+14. Create aliases to ~/.bashrc
+
+alias clr='clear'
+alias work='cd ~/workspaces/'
+alias g c='git commit -m ""'
+alias g s='git status'
+alias g f='git fetch origin'
+
+15. 
 
