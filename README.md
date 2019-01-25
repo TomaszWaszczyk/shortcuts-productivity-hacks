@@ -198,14 +198,17 @@ git config --global user.name "Tomasz Waszczyk"
 
 `alias work='cd ~/workspaces/'`
 
-`alias g c='git commit -m ""'`
+`alias gc='git commit -m ""'`
 
-`alias g s='git status'`
+`alias gs='git status'`
 
-`alias g f='git fetch origin'`
+`alias gf='git fetch origin'`
 
-`alias g p='git pull'`
+`alias gpull='git pull'`
 
+`alias gpush='git push'`
 
-15. 
+15. `sudo apt-get install openvpn` 
+
+16. 
 
