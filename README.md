@@ -212,5 +212,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 16. Setup in all browsers: When you leave web browser `Continue where you left off` to save opened tabs.
 
-17. 
+17. npm install -g eslint for VSCode
+
+18. 
 
