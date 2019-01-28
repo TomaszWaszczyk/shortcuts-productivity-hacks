@@ -218,3 +218,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 19. 
 
+# Others
+
+https://github.com/charlax/professional-programming
+
