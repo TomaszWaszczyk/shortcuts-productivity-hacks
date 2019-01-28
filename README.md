@@ -210,5 +210,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 15. `sudo apt-get install openvpn` 
 
-16. 
+16. Setup in all browsers: When you leave web browser `Continue where you left off` to save opened tabs.
+
+17. 
 
