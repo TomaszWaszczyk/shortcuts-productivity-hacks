@@ -214,5 +214,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 17. npm install -g eslint for VSCode
 
-18. 
+18. ext install waderyan.gitblame - GitBlame for VSCode
+
+19. 
 
