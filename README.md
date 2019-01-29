@@ -216,7 +216,9 @@ git config --global user.name "Tomasz Waszczyk"
 
 18. ext install waderyan.gitblame - GitBlame for VSCode
 
-19. 
+19. Increase buffer for terminals.
+
+20. 
 
 # Others
 
