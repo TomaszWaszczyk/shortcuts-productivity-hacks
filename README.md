@@ -218,7 +218,9 @@ git config --global user.name "Tomasz Waszczyk"
 
 19. Increase buffer for terminals.
 
-20. 
+20. sudo apt install htop
+
+21
 
 # Others
 
