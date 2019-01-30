@@ -98,6 +98,7 @@ git stash drop <stash_id> - delete given stash
 
 git push --delete origin dev - delete remote dev branch as well
 
+git reflog - prints a complete list of previous operations. Latest operation will be at top
 
 ![](https://github.com/TomaszWaszczyk/keyboard-shortcuts-productive-hacks/blob/master/git-cheat-sheet-large-blue.png?raw=true)
 
