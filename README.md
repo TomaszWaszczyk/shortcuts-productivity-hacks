@@ -224,7 +224,9 @@ git config --global user.name "Tomasz Waszczyk"
 
 20. sudo apt install htop
 
-21
+21. npm i -g yarn
+
+22. 
 
 # Others
 
