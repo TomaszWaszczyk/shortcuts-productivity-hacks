@@ -96,6 +96,9 @@ git stash clear - delete all stashes
 
 git stash drop <stash_id> - delete given stash
 
+git push --delete origin dev - delete remote dev branch as well
+
+
 ![](https://github.com/TomaszWaszczyk/keyboard-shortcuts-productive-hacks/blob/master/git-cheat-sheet-large-blue.png?raw=true)
 
 # Linux
