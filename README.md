@@ -166,7 +166,7 @@ https://github.com/clockfort/GitHub-Backup
 
 1. Firefox - disable title bar (Firefox -> Customie -> Bottom Left "Title bar" -> uncheck)
 
-2. Lock rotation of screen
+2. ```gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true``` - lock screen rotation - lock rotation of screen
 
 3. Night light -> ON
 
@@ -226,7 +226,7 @@ git config --global user.name "Tomasz Waszczyk"
 
 21. npm i -g yarn
 
-22. gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true - lock screen rotation
+22. 
 
 23. 
 
