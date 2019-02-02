@@ -226,7 +226,9 @@ git config --global user.name "Tomasz Waszczyk"
 
 21. npm i -g yarn
 
-22. 
+22. gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true - lock screen rotation
+
+23. 
 
 # Others
 
