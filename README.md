@@ -110,9 +110,9 @@ CTRL + U - delete command in terminal
 
 Files expolorer: CTRL + H - show/hide hidden files/directories
 
-$ du -hs <directory> - size of directory
+`$ du -hs <directory>` - size of directory
   
-$ which <application> - check location of application  
+`$ which <application>` - check location of application  
 
 Byobu - multiterminal - http://www.byobu.co/ (alternative to Terminator)
 
@@ -132,23 +132,23 @@ https://stedolan.github.io/jq/
 
 https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
-df -ah - disk usage
+`df -ah` - disk usage
 
-du -sh <directory> - disk usage of given directory
+`du -sh <directory>` - disk usage of given directory
   
-netstat -tulpn - open ports
+`netstat -tulpn` - open ports
 
-sudo netstat -tulpn | grep LISTEN
+`sudo netstat -tulpn | grep LISTEN`
 
 Install TLP - Power management tool for Linux
 
-sudo apt-get install indicator-cpufreq
+`sudo apt-get install indicator-cpufreq`
 
-gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize' - enable minimizing 
+`gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'` - enable minimizing 
 
-sudo snap install communitheme
+`sudo snap install communitheme`
 
-sudo apt install bleachbit
+`sudo apt install bleachbit`
 
 https://github.com/oguzhaninan/Buka
 
@@ -168,7 +168,9 @@ https://github.com/clockfort/GitHub-Backup
 
 1. Firefox - disable title bar (Firefox -> Customie -> Bottom Left "Title bar" -> uncheck)
 
-2. ```gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true``` - lock screen rotation - lock rotation of screen
+2. ```gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true``` - lock screen rotation - lock 
+
+rotation of screen
 
 3. Night light -> ON
 
@@ -176,9 +178,9 @@ https://github.com/clockfort/GitHub-Backup
 
 5. Hide Ubuntu's top bar (Ubuntu Software and find: Hide top bar)
 
-6. sudo apt install curl
+6. `sudo apt install curl`
 
-7. sudo apt-get install exfat-fuse exfat-utils - Reading SD Card etc.
+7. `sudo apt-get install exfat-fuse exfat-utils` - Reading SD Card etc.
 
 8. 
 
@@ -228,7 +230,7 @@ https://github.com/clockfort/GitHub-Backup
 
 21. `npm i -g yarn`
 
-22. 
+22. Replace/put VSCode's snippets - `./vscode/javascript.json` to `~/.config/Code/User/snippets`
 
 23. 
 
