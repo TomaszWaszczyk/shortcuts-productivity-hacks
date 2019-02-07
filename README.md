@@ -52,6 +52,8 @@ ALT + F7 - find usages
 
 # VS Code
 
+CTRL + SHIFT + P then `>Eslint: Fix all auto-fixable Problems`
+
 https://stackoverflow.com/questions/31587949/hide-js-map-files-in-visual-studio-code
 
 https://stackoverflow.com/questions/45932042/frustration-with-inconsistent-emmet-results-in-vscode
@@ -62,7 +64,7 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 CTRL + SHIFT + B - Gulp's builds
 
-ext install esbenp.prettier-vscode
+`ext install esbenp.prettier-vscode`
 
 
 # DevTools - Google Chrome
@@ -74,11 +76,11 @@ https://developers.google.com/web/tools/lighthouse/
 
 # GIT
 
-git branch
+`git branch`
 
-git branch -d local_branch
+`git branch -d local_branch`
 
-git checkout -b name_of_just_created_branch - create and change branch
+`git checkout -b name_of_just_created_branch` - create and change branch
 
 git clean -d -f -x deletes files listed in .gitignore and such. E.g. workspaces that don't belong in git, Pods folder, etc. 
 
@@ -154,9 +156,9 @@ https://github.com/oguzhaninan/Buka
 
 * Kill application under given port
 
-1. sudo netstat -plnt
+1. `sudo netstat -plnt`
 
-2. kill -9 <PID>
+2. `kill -9 <PID>`
 
 # GitHub
 
@@ -180,13 +182,13 @@ https://github.com/clockfort/GitHub-Backup
 
 8. 
 
-git config --global user.email "tomaz@waszczyk.com"
+`git config --global user.email "tomaz@waszczyk.com"`
 
-git config --global user.name "Tomasz Waszczyk"
+`git config --global user.name "Tomasz Waszczyk"`
 
 9. Add appropriate entires to ~/.config/user-dirs.dirs
 
-10. sudo apt install peek - GIF creation
+10. `sudo apt install peek` - GIF creation
 
 11. `gsettings set org.gnome.desktop.calendar show-weekdate true` - show number of week in calendar
 
@@ -216,15 +218,15 @@ git config --global user.name "Tomasz Waszczyk"
 
 16. Setup in all browsers: When you leave web browser `Continue where you left off` to save opened tabs.
 
-17. npm install -g eslint for VSCode
+17. `npm install -g eslint` for VSCode
 
-18. ext install waderyan.gitblame - GitBlame for VSCode
+18. `ext install waderyan.gitblame` - GitBlame for VSCode
 
 19. Increase buffer for terminals.
 
-20. sudo apt install htop
+20. `sudo apt install htop`
 
-21. npm i -g yarn
+21. `npm i -g yarn`
 
 22. 
 
