@@ -66,6 +66,9 @@ CTRL + SHIFT + B - Gulp's builds
 
 `ext install esbenp.prettier-vscode`
 
+`ext install cmstead.jsrefactor`
+
+`ext install xabikos.JavaScriptSnippets`
 
 # DevTools - Google Chrome
 
@@ -82,25 +85,25 @@ https://developers.google.com/web/tools/lighthouse/
 
 `git checkout -b name_of_just_created_branch` - create and change branch
 
-git clean -d -f -x deletes files listed in .gitignore and such. E.g. workspaces that don't belong in git, Pods folder, etc. 
+`git clean -d -f -x` - deletes files listed in .gitignore and such. E.g. workspaces that don't belong in git, Pods folder, etc. 
 
 WARNING The command as written above will remove EVERY >UNTRACKED< FILE AND DIRECTORY WITHIN YOUR GIT ROOT, not just "files listed in .gitignore". Anything that is not being tracked by Git, regardless of whether or not it is listed in .gitignore will be wiped. git clean -dfX (note the case on the X) will only remove items which have an applicable rule in .gitignore. Please heed this warning: Never run git clean without either running it in interactive mode, with -i instead of -f, or at least doing a dry run first — -n and then again with -f
 
 Bash completion: sudo apt-get install git bash-completion
 
-git add -A stages all changes
+`git add -A` - stages all changes
 
-git add . stages new files and modifications, without deletions
+`git add .` - stages new files and modifications, without deletions
 
-git add -u stages modifications and deletions, without new files
+`git add -u` - stages modifications and deletions, without new files
 
-git stash clear - delete all stashes
+`git stash clear` - delete all stashes
 
-git stash drop <stash_id> - delete given stash
+`git stash drop <stash_id>` - delete given stash
 
-git push --delete origin dev - delete remote dev branch as well
+`git push --delete origin dev` - delete remote dev branch as well
 
-git reflog - prints a complete list of previous operations. Latest operation will be at top
+`git reflog` - prints a complete list of previous operations. Latest operation will be at top
 
 ![](https://github.com/TomaszWaszczyk/keyboard-shortcuts-productive-hacks/blob/master/git-cheat-sheet-large-blue.png?raw=true)
 
@@ -116,17 +119,17 @@ Files expolorer: CTRL + H - show/hide hidden files/directories
 
 Byobu - multiterminal - http://www.byobu.co/ (alternative to Terminator)
 
-Shift+F2 -> To split the current windows into horizontal splits.
+`Shift+F2` - To split the current windows into horizontal splits.
 
-Ctrl+F2 - > To split the panes into vertical.
+`Ctrl+F2` - To split the panes into vertical.
 
-Shift+F11 - > To Zoom the windows and back again.
+`Shift+F11` - To Zoom the windows and back again.
 
-Alt+F11 -> To split a pane in a new window.
+`Alt+F11` - To split a pane in a new window.
 
-Shift+Alt+[←↑→↓] -> Change size of spits in terminal. 
+`Shift+Alt+[←↑→↓]` - Change size of spits in terminal. 
 
-F9 -> Configuration
+`F9` -> Configuration
 
 https://stedolan.github.io/jq/
 
@@ -188,7 +191,7 @@ rotation of screen
 
 `git config --global user.name "Tomasz Waszczyk"`
 
-9. Add appropriate entires to ~/.config/user-dirs.dirs
+9. Add appropriate entires to `~/.config/user-dirs.dirs`
 
 10. `sudo apt install peek` - GIF creation
 
