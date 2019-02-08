@@ -24,35 +24,35 @@ CTRL + ALT + S
 
 # IDEA
 
-ALT + 7 - file structure
+`ALT + 7` - file structure
 
-ALT + 9 - local changes
+`ALT + 9` - local changes
 
-CTRL + T
+`CTRL + T`
 
-ALT + C - commit changes
+`ALT + C` - commit changes
 
-CTRL + G - go to line
+`CTRL + G` - go to line
 
-ALT + F12 - terminal
+`ALT + F12` - terminal
 
-CTRL + SHIFT + A
+`CTRL + SHIFT + A`
 
-CTRL + 1 - project structure
+`CTRL + 1` - project structure
 
-CTRL + D - duplicate line
+`CTRL + D` - duplicate line
 
-ALT + INSERT - getters/setters
+`ALT + INSERT` - getters/setters
 
-SHIFT + F6 - refactor variable name
+`SHIFT + F6` - refactor variable name
 
-CTRL + R
+`CTRL + R`
 
-ALT + F7 - find usages
+`ALT + F7` - find usages
 
 # VS Code
 
-CTRL + SHIFT + P then `>Eslint: Fix all auto-fixable Problems`
+`CTRL + SHIFT + P` then `>Eslint: Fix all auto-fixable Problems`
 
 https://stackoverflow.com/questions/31587949/hide-js-map-files-in-visual-studio-code
 
@@ -62,7 +62,7 @@ https://github.com/formulahendry/vscode-code-runner => CTRL + ALT + N
 
 Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 
-CTRL + SHIFT + B - Gulp's builds
+`CTRL + SHIFT + B` - Gulp's builds
 
 `ext install esbenp.prettier-vscode`
 
@@ -70,9 +70,11 @@ CTRL + SHIFT + B - Gulp's builds
 
 `ext install xabikos.JavaScriptSnippets`
 
+`ext install PKief.material-icon-theme`
+
 # DevTools - Google Chrome
 
-CTRL + SHIFT + M - mobile/responsive view
+`CTRL + SHIFT + M` - mobile/responsive view
 
 https://developers.google.com/web/tools/lighthouse/
 
