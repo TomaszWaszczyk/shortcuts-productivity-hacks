@@ -72,6 +72,8 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 `ext install PKief.material-icon-theme`
 
+`ext install Equinusocio.vsc-material-theme`
+
 # DevTools - Google Chrome
 
 `CTRL + SHIFT + M` - mobile/responsive view
