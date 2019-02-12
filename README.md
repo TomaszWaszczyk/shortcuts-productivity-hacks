@@ -241,7 +241,9 @@ rotation of screen
 
 24. [OPTIONAL] Shotcut - Video editor
 
-25. 
+25. Themes: https://itsfoss.com/install-themes-ubuntu/
+
+26. 
 
 # Others
 
