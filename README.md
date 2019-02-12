@@ -237,7 +237,9 @@ rotation of screen
 
 22. Replace/put VSCode's snippets - `./vscode/javascript.json` to `~/.config/Code/User/snippets`
 
-23. 
+23. [OPTIONAL] Flameshot - Fast screenshot - `SHIFT + PRT SCR`
+
+24. 
 
 # Others
 
