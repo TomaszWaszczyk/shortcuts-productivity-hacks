@@ -239,7 +239,9 @@ rotation of screen
 
 23. [OPTIONAL] Flameshot - Fast screenshot - `SHIFT + PRT SCR`
 
-24. 
+24. [OPTIONAL] Shotcut - Video editor
+
+25. 
 
 # Others
 
