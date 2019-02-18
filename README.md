@@ -113,15 +113,15 @@ Bash completion: sudo apt-get install git bash-completion
 
 # Linux
 
-CTRL + U - delete command in terminal
+`CTRL + U` - delete command in terminal
 
-Files expolorer: CTRL + H - show/hide hidden files/directories
+`CTRL + H` - show/hide files/directories in files expolorer
 
 `$ du -hs <directory>` - size of directory
   
 `$ which <application>` - check location of application  
 
-Byobu - multiterminal - http://www.byobu.co/ (alternative to Terminator)
+`ALT + F10` - maximize window
 
 `Shift+F2` - To split the current windows into horizontal splits.
 
@@ -146,8 +146,6 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 `netstat -tulpn` - open ports
 
 `sudo netstat -tulpn | grep LISTEN`
-
-Install TLP - Power management tool for Linux
 
 `sudo apt-get install indicator-cpufreq`
 
@@ -245,7 +243,9 @@ rotation of screen
 
 25. Themes: https://itsfoss.com/install-themes-ubuntu/
 
-26. 
+26. [OPTIONAL] Install TLP - Power management tool for Linux
+
+27. [OPTIONAL] Byobu - multiterminal - http://www.byobu.co/ (alternative to Terminator)
 
 # Others
 
