@@ -247,6 +247,10 @@ rotation of screen
 
 27. [OPTIONAL] Byobu - multiterminal - http://www.byobu.co/ (alternative to Terminator)
 
+28. [OPTIONAL] https://itsfoss.com/best-ubuntu-apps/
+
+29. 
+
 # Others
 
 https://github.com/charlax/professional-programming
