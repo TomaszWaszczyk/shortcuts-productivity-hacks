@@ -80,6 +80,7 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 https://developers.google.com/web/tools/lighthouse/
 
+`SHIFT + CTRL + P` + "Developer: Toggle Screencast mode"
 
 # GIT
 
