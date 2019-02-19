@@ -111,6 +111,9 @@ Bash completion: sudo apt-get install git bash-completion
 
 ![](https://github.com/TomaszWaszczyk/keyboard-shortcuts-productive-hacks/blob/master/git-cheat-sheet-large-blue.png?raw=true)
 
+https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one
+
+
 # Linux
 
 `CTRL + U` - delete command in terminal
