@@ -74,13 +74,13 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 `ext install Equinusocio.vsc-material-theme`
 
+`SHIFT + CTRL + P` + "Developer: Toggle Screencast mode"
+
 # DevTools - Google Chrome
 
 `CTRL + SHIFT + M` - mobile/responsive view
 
 https://developers.google.com/web/tools/lighthouse/
-
-`SHIFT + CTRL + P` + "Developer: Toggle Screencast mode"
 
 # GIT
 
