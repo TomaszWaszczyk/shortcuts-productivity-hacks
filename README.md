@@ -28,7 +28,7 @@ CTRL + ALT + S
 
 `ALT + 9` - local changes
 
-`CTRL + T`
+`CTRL + T` - update project
 
 `ALT + C` - commit changes
 
@@ -36,7 +36,7 @@ CTRL + ALT + S
 
 `ALT + F12` - terminal
 
-`CTRL + SHIFT + A`
+`CTRL + SHIFT + A` - 
 
 `CTRL + 1` - project structure
 
