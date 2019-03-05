@@ -257,7 +257,9 @@ rotation of screen
 
 30. [OPTIONAL] https://itsfoss.com/best-linux-media-server/?utm_source=newsletter&utm_medium=email&utm_campaign=ubuntu_1404_is_ending_soon_free_debian_book_open_source_media_center_software&utm_term=2019-03-03
 
-31. 
+31. Creation of "workspaces" directory and pin it to File Manager by swiping
+
+32. 
 
 # Others
 
