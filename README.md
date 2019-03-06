@@ -259,7 +259,7 @@ rotation of screen
 
 31. Creation of "workspaces" directory and pin it to File Manager by swiping
 
-32. 
+32. [OPTIONAL] https://www.openshot.org/download/
 
 # Others
 
