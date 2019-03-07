@@ -261,6 +261,10 @@ rotation of screen
 
 32. [OPTIONAL] https://www.openshot.org/download/
 
+33. [OPTIONAL] `sudo apt-get install git-ftp` - integration between Git and FTP
+
+34. 
+
 # Others
 
 https://github.com/charlax/professional-programming
