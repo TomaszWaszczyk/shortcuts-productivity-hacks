@@ -263,7 +263,7 @@ rotation of screen
 
 33. [OPTIONAL] `sudo apt-get install git-ftp` - integration between Git and FTP
 
-34. 
+34. [OPTIONAL] Krita
 
 # Others
 
