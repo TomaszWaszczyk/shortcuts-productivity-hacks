@@ -265,6 +265,8 @@ rotation of screen
 
 34. [OPTIONAL] Krita
 
+35. [OPTIONAL] `sudo apt-get install xpad` - Sticky Notes
+
 # Others
 
 https://github.com/charlax/professional-programming
