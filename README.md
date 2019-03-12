@@ -50,6 +50,8 @@ CTRL + ALT + S
 
 `ALT + F7` - find usages
 
+`CTRL + SHIFT + ALT + L` - reformat code
+
 # VS Code
 
 `CTRL + SHIFT + P` then `>Eslint: Fix all auto-fixable Problems`
