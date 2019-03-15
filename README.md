@@ -269,6 +269,10 @@ rotation of screen
 
 35. [OPTIONAL] `sudo apt-get install xpad` - Sticky Notes
 
+36. [OPTIONAL] Install MellowPlayer
+
+37. 
+
 # Others
 
 https://github.com/charlax/professional-programming
