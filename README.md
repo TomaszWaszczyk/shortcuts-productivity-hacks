@@ -112,6 +112,20 @@ Bash completion: sudo apt-get install git bash-completion
 
 `git reflog` - prints a complete list of previous operations. Latest operation will be at top
 
+`git commit --amend` - change name of commit
+
+`git branch -m relaese release` - change branch name
+
+`git reset /assets/img/unknown.jpg` - delete wrong added file in the repository
+
+`git reset --soft HEAD~1
+
+git reset /assets/img/unknown.jpg
+
+rm /assets/img/unknown.jpg
+
+git commit` - delete wrong added file in the repository
+
 ![](https://github.com/TomaszWaszczyk/keyboard-shortcuts-productive-hacks/blob/master/git-cheat-sheet-large-blue.png?raw=true)
 
 https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one
