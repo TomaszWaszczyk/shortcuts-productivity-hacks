@@ -118,13 +118,13 @@ Bash completion: sudo apt-get install git bash-completion
 
 `git reset /assets/img/unknown.jpg` - delete wrong added file in the repository
 
-`git reset --soft HEAD~1
+`git reset --soft HEAD~1`
 
-git reset /assets/img/unknown.jpg
+`git reset /assets/img/unknown.jpg`
 
-rm /assets/img/unknown.jpg
+`rm /assets/img/unknown.jpg`
 
-git commit` - delete wrong added file in the repository
+`git commit` - delete wrong added file in the repository
 
 ![](https://github.com/TomaszWaszczyk/keyboard-shortcuts-productive-hacks/blob/master/git-cheat-sheet-large-blue.png?raw=true)
 
