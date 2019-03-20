@@ -1,14 +1,8 @@
 # IDEA Intellij
 
-## Live templates
-
-console.log($END$);
-
-
 ## Emmet
 
 Lorem*5 <tab>
-
 
 ## Plugins
 
@@ -19,10 +13,6 @@ Solidity
 Solihint
 
 ## Shortcuts
-
-CTRL + ALT + S
-
-# IDEA
 
 `ALT + 7` - file structure
 
@@ -77,6 +67,8 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 `ext install Equinusocio.vsc-material-theme`
 
 `SHIFT + CTRL + P` + "Developer: Toggle Screencast mode"
+
+`Ctrl+K Ctrl+T` - switch theme
 
 # DevTools - Google Chrome
 
