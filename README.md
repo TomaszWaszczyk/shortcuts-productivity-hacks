@@ -78,6 +78,8 @@ https://developers.google.com/web/tools/lighthouse/
 
 # GIT
 
+`git config --global credential.helper store` - global storage for Git's credentials
+
 `git branch`
 
 `git branch -d local_branch`
@@ -277,7 +279,9 @@ rotation of screen
 
 36. [OPTIONAL] Install MellowPlayer
 
-37. 
+37. [OPTIONAL] `git config --global credential.helper store` - global storage for Git's credentials
+
+38. 
 
 # Others
 
