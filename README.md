@@ -281,7 +281,9 @@ rotation of screen
 
 37. [OPTIONAL] `git config --global credential.helper store` - global storage for Git's credentials
 
-38. 
+38. [OPTIONAL] Install Kodi Media Server
+
+39. 
 
 # Others
 
