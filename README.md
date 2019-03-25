@@ -287,7 +287,9 @@ rotation of screen
 
 # Docker
 
-`sudo docker images` - list of images
+`sudo docker images` - list of all images
+
+`sudo docker ps - a` - list of all images
 
 `sudo docker rmi <ID>` - delete image
 
