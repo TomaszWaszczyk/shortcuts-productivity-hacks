@@ -285,6 +285,12 @@ rotation of screen
 
 39. 
 
+# Docker
+
+`sudo docker images` - list of images
+
+`sudo docker rmi <ID>` - delete image
+
 # Others
 
 https://github.com/charlax/professional-programming
