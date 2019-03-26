@@ -283,7 +283,7 @@ rotation of screen
 
 38. [OPTIONAL] Install Kodi Media Server
 
-39. 
+39. [OPTIONCAL] Install ClamTK - antivirus for Linux
 
 # Docker
 
