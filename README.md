@@ -287,6 +287,8 @@ rotation of screen
 
 # Docker
 
+`sudo docker info` - status
+
 `sudo docker images` - list of all images
 
 `sudo docker ps - a` - list of all images
