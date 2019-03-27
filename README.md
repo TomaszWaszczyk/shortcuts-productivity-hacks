@@ -187,11 +187,9 @@ https://github.com/clockfort/GitHub-Backup
 
 1. Firefox - disable title bar (Firefox -> Customie -> Bottom Left "Title bar" -> uncheck)
 
-2. ```gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true``` - lock screen rotation - lock 
+2. ```gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true``` - lock rotation of a screen
 
-rotation of screen
-
-3. Night light -> ON
+3. Night light -> `ON`
 
 4. Install Visual Studio Code (as Debian package)
 
