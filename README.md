@@ -289,7 +289,7 @@ https://github.com/clockfort/GitHub-Backup
 
 `sudo docker images` - list of all images
 
-`sudo docker ps - a` - list of all containers
+`sudo docker ps -a` - list of all containers
 
 `sudo docker rmi <ID>` - delete image
 
