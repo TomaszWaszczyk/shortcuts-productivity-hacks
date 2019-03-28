@@ -287,7 +287,7 @@ https://github.com/clockfort/GitHub-Backup
 
 `sudo docker info` - status
 
-`sudo docker images` - list of all images
+`sudo docker images -a` - list of all images
 
 `sudo docker ps -a` - list of all containers
 
