@@ -149,6 +149,8 @@ https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in
 
 `F9` -> Configuration
 
+`history` - terminal history, example usage: `history | grep export` or `history 100`
+
 https://stedolan.github.io/jq/
 
 https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
