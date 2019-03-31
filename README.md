@@ -285,6 +285,10 @@ https://github.com/clockfort/GitHub-Backup
 
 39. [OPTIONCAL] Install ClamTK - antivirus for Linux
 
+40. `sudo apt install ufw` and turn on the firewall.
+
+41. 
+
 # Docker
 
 `sudo docker info` - status
