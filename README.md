@@ -289,6 +289,12 @@ https://github.com/clockfort/GitHub-Backup
 
 41. 
 
+# NodeJS
+
+`avn setup` - check versions
+
+`npm check` - check versions
+
 # Docker
 
 `sudo docker info` - status
