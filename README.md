@@ -305,6 +305,8 @@ https://github.com/clockfort/GitHub-Backup
 
 `sudo docker rmi <ID>` - delete image
 
+https://github.com/wsargent/docker-cheat-sheet
+
 # Others
 
 https://github.com/charlax/professional-programming
