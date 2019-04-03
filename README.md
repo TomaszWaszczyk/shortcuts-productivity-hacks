@@ -309,6 +309,8 @@ https://github.com/clockfort/GitHub-Backup
 
 `sudo docker rmi <ID>` - delete image
 
+`docker system prune` -	remove unused data
+
 https://github.com/wsargent/docker-cheat-sheet
 
 # Others
