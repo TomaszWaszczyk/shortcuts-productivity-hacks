@@ -299,6 +299,12 @@ https://github.com/clockfort/GitHub-Backup
 
 `npm check` - check versions
 
+## Monitoring and profiling
+
+https://newrelic.com
+
+https://docs.appdynamics.com/display/PRO39/APM+Overview+-+Node.js
+
 # Docker
 
 `sudo docker info` - status
