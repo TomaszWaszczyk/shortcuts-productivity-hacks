@@ -311,6 +311,8 @@ https://github.com/clockfort/GitHub-Backup
 
 `docker system prune` -	remove unused data
 
+`docker system df` - amount of disk space used by the docker daemon
+
 https://github.com/wsargent/docker-cheat-sheet
 
 # Others
