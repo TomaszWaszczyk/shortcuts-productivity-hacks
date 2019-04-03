@@ -321,6 +321,8 @@ https://docs.appdynamics.com/display/PRO39/APM+Overview+-+Node.js
 
 `docker system df` - amount of disk space used by the docker daemon
 
+`docker attach --sig-proxy=false <your_container_name>` - if you are attached to a container and press Ctrl+C, it would not impact in the process of the container, it would impact just in your console.
+
 https://github.com/wsargent/docker-cheat-sheet
 
 # Others
