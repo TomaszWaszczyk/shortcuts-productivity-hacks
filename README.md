@@ -291,13 +291,21 @@ https://github.com/clockfort/GitHub-Backup
 
 40. `sudo apt install ufw` and turn on the firewall.
 
-41. 
+41. `npm completion >> ~/.bashrc` or `npm completion >> ~/.zshrc` - autocompletion for npm in console #cool
 
 # NodeJS
 
 `avn setup` - check versions
 
 `npm check` - check versions
+
+`npm ls -g --depth 0` - globally installed modules
+
+`npm install -g snyk` then `snyk monitor` - check security
+
+`npm config set loglevel http` - change log level
+
+`npm config list` 
 
 ## Monitoring and profiling
 
