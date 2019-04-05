@@ -333,6 +333,12 @@ https://docs.appdynamics.com/display/PRO39/APM+Overview+-+Node.js
 
 https://github.com/wsargent/docker-cheat-sheet
 
+
+# Study and work music
+
+1. https://www.youtube.com/watch?v=K0ZfXs_3EcE : Complete 2-hour rendition of Handel's "Messiah" by Choir of King's College, Cambridge
+
+
 # Others
 
 https://github.com/charlax/professional-programming
