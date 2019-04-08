@@ -293,6 +293,8 @@ https://github.com/clockfort/GitHub-Backup
 
 41. `npm completion >> ~/.bashrc` or `npm completion >> ~/.zshrc` - autocompletion for npm in console #cool
 
+42. [OPTIONAL] Install TightVNC || Ultra VNC || Real VNC - https://manage.realvnc.com/en/teams/5uTOUg27YPop769qoJJ || DWService
+
 # NodeJS
 
 `avn setup` - check versions
