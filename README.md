@@ -321,6 +321,8 @@ https://docs.appdynamics.com/display/PRO39/APM+Overview+-+Node.js
 
 `sudo docker ps -a` - list of all containers
 
+`docker ps --filter status=running` - list only running containers 
+
 `docker ps` - status of running (and uptime) of containers
 
 `sudo docker rmi <ID>` - delete image
