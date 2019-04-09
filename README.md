@@ -295,6 +295,8 @@ https://github.com/clockfort/GitHub-Backup
 
 42. [OPTIONAL] Install TightVNC || Ultra VNC || Real VNC - https://manage.realvnc.com/en/teams/5uTOUg27YPop769qoJJ || DWService
 
+43. Configure zsh console: https://github.com/robbyrussell/oh-my-zsh
+
 # NodeJS
 
 `avn setup` - check versions
