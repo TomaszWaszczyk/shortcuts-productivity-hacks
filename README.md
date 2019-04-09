@@ -126,6 +126,7 @@ Bash completion: sudo apt-get install git bash-completion
 
 https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one
 
+https://github.com/jesseduffield/lazygit
 
 # Linux
 
@@ -298,6 +299,10 @@ https://github.com/clockfort/GitHub-Backup
 42. [OPTIONAL] Install TightVNC || Ultra VNC || Real VNC - https://manage.realvnc.com/en/teams/5uTOUg27YPop769qoJJ || DWService
 
 43. Configure zsh console: https://github.com/robbyrussell/oh-my-zsh
+
+44. [OPTIONAL] Install `lazygit`: https://github.com/jesseduffield/lazygit
+
+45. [OPTIONAL] Install ASCIICinema: https://asciinema.org
 
 # NodeJS
 
