@@ -56,6 +56,8 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 `CTRL + SHIFT + B` - Gulp's builds
 
+`CTRL + SHIFT + V`- preview of *.md file while editing 
+
 `ext install esbenp.prettier-vscode`
 
 `ext install cmstead.jsrefactor`
