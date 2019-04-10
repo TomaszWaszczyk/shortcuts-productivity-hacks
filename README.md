@@ -174,6 +174,8 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 `sudo apt install bleachbit`
 
+`openssl rand -base64 18` - generate random string (18 is length)
+
 https://github.com/oguzhaninan/Buka
 
 ## Links
