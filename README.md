@@ -348,6 +348,10 @@ https://docs.appdynamics.com/display/PRO39/APM+Overview+-+Node.js
 
 https://github.com/wsargent/docker-cheat-sheet
 
+# Network
+
+Check open ports: https://www.yougetsignal.com/tools/open-ports/
+
 
 # Study and work music
 
