@@ -176,6 +176,8 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 `openssl rand -base64 18` - generate random string (18 is length)
 
+`curl wttr.in` - weather from console
+
 https://github.com/oguzhaninan/Buka
 
 ## Links
