@@ -128,6 +128,8 @@ https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in
 
 https://github.com/jesseduffield/lazygit
 
+https://github.com/stevemao/awesome-git-addons - Git's addons
+
 # Linux
 
 `CTRL + U` - delete command in terminal
