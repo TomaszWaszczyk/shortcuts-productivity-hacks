@@ -182,6 +182,10 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 https://github.com/oguzhaninan/Buka
 
+### Known issues
+
+* VPN: https://askubuntu.com/questions/1032476/ubuntu-18-04-no-dns-resolution-when-connected-to-openvpn
+
 ## Links
 
 http://manpages.ubuntu.com
