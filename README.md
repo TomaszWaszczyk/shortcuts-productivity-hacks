@@ -74,10 +74,11 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 Hide JS files using TypeScript: File –> Preferences –> Settings -> Files: Exclude add:
 
-``
+`
 **/*.js.map
+
 **/*.js”: {“when”: “$(basename).ts
-``
+`
 
 # DevTools - Google Chrome
 
