@@ -322,6 +322,8 @@ https://github.com/clockfort/GitHub-Backup
 
 45. [OPTIONAL] Install ASCIICinema: https://asciinema.org
 
+46. [OPTIONAL] Install Mailspring
+
 # NodeJS
 
 `avn setup` - check versions
