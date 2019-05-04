@@ -188,6 +188,8 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 `curl wttr.in` - weather from console
 
+`sudo apt install resolvconf` - permanent change of `resolv.conf` in Ubuntu 18.04+
+
 https://github.com/oguzhaninan/Buka
 
 ### Known issues
