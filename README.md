@@ -80,6 +80,8 @@ Hide JS files using TypeScript: File –> Preferences –> Settings -> Files: Ex
 **/*.js”: {“when”: “$(basename).ts
 ```
 
+`code --list-extensions` - list of extensions
+
 # DevTools - Google Chrome
 
 `CTRL + SHIFT + M` - mobile/responsive view
