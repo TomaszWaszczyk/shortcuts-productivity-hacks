@@ -328,6 +328,8 @@ https://github.com/clockfort/GitHub-Backup
 
 46. [OPTIONAL] Install Mailspring
 
+47. [OPTIONAL] Install https://keepassxc.org/download/
+
 # NodeJS
 
 `avn setup` - check versions
