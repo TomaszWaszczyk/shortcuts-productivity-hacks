@@ -377,6 +377,8 @@ https://docs.appdynamics.com/display/PRO39/APM+Overview+-+Node.js
 
 https://github.com/wsargent/docker-cheat-sheet
 
+https://github.com/wagoodman/dive
+
 # Network
 
 Check open ports: https://www.yougetsignal.com/tools/open-ports/
