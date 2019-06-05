@@ -335,6 +335,8 @@ https://github.com/clockfort/GitHub-Backup
 
 47. [OPTIONAL] Install https://keepassxc.org/download/
 
+48. [OPTIONAL] recordMyDesktop
+
 # NodeJS
 
 `avn setup` - check versions
