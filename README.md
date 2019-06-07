@@ -383,6 +383,8 @@ https://github.com/wagoodman/dive
 
 `docker build -t smoke-tests .` - build Docker image with given name
 
+`sudo docker system prune -af` - clean
+
 # Network
 
 Check open ports: https://www.yougetsignal.com/tools/open-ports/
