@@ -349,7 +349,15 @@ https://github.com/clockfort/GitHub-Backup
 
 `npm config set loglevel http` - change log level
 
-`npm config list` 
+`npm config list`
+
+`npm ls --depth 0`
+
+`npm prune`
+
+`npm version patch/minor/major`
+
+`npm t` === `npm test`
 
 ## Monitoring and profiling
 
