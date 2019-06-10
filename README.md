@@ -197,6 +197,8 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 `sudo apt install resolvconf` - permanent change of `resolv.conf` in Ubuntu 18.04+
 
+`pulseaudio -k` - restart Alsa
+
 https://github.com/oguzhaninan/Buka
 
 ### Known issues
