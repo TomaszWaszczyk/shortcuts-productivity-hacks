@@ -401,6 +401,8 @@ https://github.com/wagoodman/dive
 
 `docker network create` - creation on network interface
 
+`docker logs --tail 50 --follow --timestamps #put-image-name` - see what is wrong inside image
+
 # Network
 
 Check open ports: https://www.yougetsignal.com/tools/open-ports/
