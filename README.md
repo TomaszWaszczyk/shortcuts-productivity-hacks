@@ -399,6 +399,8 @@ https://github.com/wagoodman/dive
 
 `sudo docker system prune -af` - clean
 
+`docker network create` - creation on network interface
+
 # Network
 
 Check open ports: https://www.yougetsignal.com/tools/open-ports/
