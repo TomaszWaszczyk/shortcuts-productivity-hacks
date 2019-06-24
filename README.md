@@ -149,6 +149,8 @@ https://github.com/jesseduffield/lazygit
 
 https://github.com/stevemao/awesome-git-addons - Git's addons
 
+`git pull origin master --rebase` - rebase from origin master
+
 # Linux
 
 `CTRL + U` - delete command in terminal
