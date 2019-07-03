@@ -86,6 +86,11 @@ Hide JS files using TypeScript: File –> Preferences –> Settings -> Files: Ex
 
 `code --list-extensions` - list of extensions
 
+`ALT` - show/hide menu bar
+
+`F11` - show/hide title bar
+
+
 # DevTools - Google Chrome
 
 `CTRL + SHIFT + M` - mobile/responsive view
