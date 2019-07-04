@@ -8,7 +8,16 @@
     //color of status bar
     "workbench.colorCustomizations": {
         "statusBar.background" : "#000000",
+        "statusBar.foreground" : "#0abb68",
         "statusBar.noFolderBackground" : "#212121",
         "statusBar.debuggingBackground": "#263238"
+    },
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
     }
 }
