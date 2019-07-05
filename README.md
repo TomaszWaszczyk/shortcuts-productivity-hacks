@@ -156,6 +156,7 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git pull origin master --rebase` - rebase from origin master
 
+
 # Linux
 
 `CTRL + U` - delete command in terminal
@@ -213,6 +214,8 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 https://github.com/oguzhaninan/Buka
 
 Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth by default
+
+`CTRL + ALT + F1` and then `F7` to get back - restore windows on external display after unplug monitors
 
 
 ### Known issues
