@@ -19,5 +19,12 @@
         "key": "ctrl+shift+k",
         "command": "-editor.action.deleteLines",
         "when": "textInputFocus && !editorReadonly"
+    },
+    { 
+        "key": "ctrl+shift+k", 
+        "command": "workbench.action.terminal.focusNext" },
+    { 
+        "key": "ctrl+shift+j", 
+        "command": "workbench.action.terminal.focusPrevious" 
     }
 ]
