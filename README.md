@@ -442,6 +442,8 @@ The opening section moves into a contrasting middle section, which flows back to
 
 http://css3generator.com/
 
+Flexbox: https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+
 
 # Others
 
