@@ -217,6 +217,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `CTRL + ALT + F1` and then `F7` to get back - restore windows on external display after unplug monitors
 
+`ALT + F7` - Move the current window
+
 
 ### Known issues
 
