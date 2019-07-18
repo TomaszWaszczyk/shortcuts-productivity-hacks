@@ -1,15 +1,20 @@
-twaszczyk@kattomwasnb:~/workspaces/ui-elements$ code --list-extensions
 azemoh.one-monokai
 cmstead.jsrefactor
 CoenraadS.bracket-pair-colorizer-2
 dbaeumer.vscode-eslint
+DSKWRK.vscode-generate-getter-setter
 eamodio.gitlens
 eg2.tslint
 emilast.LogFileHighlighter
 Equinusocio.vsc-material-theme
 ericadamski.carbon-now-sh
+jpoissonnier.vscode-styled-components
 KnisterPeter.vscode-github
 ms-azuretools.vscode-docker
 ms-vscode.vscode-typescript-tslint-plugin
 PKief.material-icon-theme
+rbbit.typescript-hero
+svenliebig.jest-typescript-toolbox
+svenliebig.react-typescript-toolbox
+techer.open-in-browser
 waderyan.gitblame
