@@ -420,6 +420,9 @@ https://github.com/wagoodman/dive
 
 `docker logs --tail 50 --follow --timestamps #put-image-name` - see what is wrong inside image
 
+`docker cp <containerId>:/file/path/within/container /host/path/target` - coping data from container to host
+
+
 # Network
 
 Check open ports: https://www.yougetsignal.com/tools/open-ports/
