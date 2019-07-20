@@ -219,6 +219,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `ALT + F7` - Move the current window
 
+`Super + Arrow keys` - Snap windows
+
 
 ### Known issues
 
