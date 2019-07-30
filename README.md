@@ -187,7 +187,7 @@ https://stedolan.github.io/jq/
 
 https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
-`df -ah` - disk usage
+`df -ah` - disk usage or `df -h`
 
 `du -sh <directory>` - disk usage of given directory
   
