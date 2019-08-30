@@ -76,7 +76,7 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 `Ctrl+K Ctrl+T` - switch theme
 
-Hide JS files using TypeScript: File –> Preferences –> Settings -> Files: Exclude add:
+Hide JS files using TypeScript: `File –> Preferences –> Settings -> Files: Exclude` add:
 
 ```
 **/*.js.map
@@ -89,6 +89,8 @@ Hide JS files using TypeScript: File –> Preferences –> Settings -> Files: Ex
 `ALT` - show/hide menu bar
 
 `F11` - show/hide title bar
+
+Writing mode: https://diessi.ca/blog/writing-mode-in-vs-code/
 
 
 # DevTools - Google Chrome
