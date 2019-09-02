@@ -365,6 +365,9 @@ https://github.com/clockfort/GitHub-Backup
 
 49. [OPTIONAL] https://keeweb.info
 
+50. Comparing two files: `sudo apt install meld`
+
+
 # NodeJS
 
 `avn setup` - check versions
