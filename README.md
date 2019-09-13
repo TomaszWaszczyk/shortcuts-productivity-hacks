@@ -224,6 +224,10 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `Super + Arrow keys` - Snap windows
 
+## Console and similar
+
+https://asciinema.org
+
 
 ### Known issues
 
