@@ -158,6 +158,7 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git pull origin master --rebase` - rebase from origin master
 
+`git reset --hard origin/master` - delete local commits on master
 
 # Linux
 
