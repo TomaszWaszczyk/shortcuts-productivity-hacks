@@ -225,6 +225,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `Super + Arrow keys` - Snap windows
 
+`pushd` and `popd` - navigation in CLI, really cool!
+
 ## Console and similar
 
 https://asciinema.org
