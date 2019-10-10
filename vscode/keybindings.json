@@ -26,5 +26,25 @@
   { 
       "key": "ctrl+shift+m", 
       "command": "workbench.action.terminal.focusPrevious" 
-  }
+},
+{
+    "key": "ctrl+alt+l",
+    "command": "insertSnippet",
+    "when": "editorTextFocus && hasSnippetCompletions && !editorTabMovesFocus && !inSnippetMode"
+},
+{
+    "key": "tab",
+    "command": "-insertSnippet",
+    "when": "editorTextFocus && hasSnippetCompletions && !editorTabMovesFocus && !inSnippetMode"
+},
+{
+    "key": "ctrl+alt+p",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+},
+{
+    "key": "ctrl+shift+alt+down",
+    "command": "-editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+}
 ]
