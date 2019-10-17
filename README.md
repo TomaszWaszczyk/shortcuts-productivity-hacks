@@ -84,14 +84,13 @@ Hide JS files using TypeScript: `File –> Preferences –> Settings -> Files: E
 **/*.js”: {“when”: “$(basename).ts
 ```
 
-`code --list-extensions` - list of extensions
+`code --list-extensions | xargs -L 1 echo code --install-extension` - list of extensions
 
 `ALT` - show/hide menu bar
 
 `F11` - show/hide title bar
 
 Writing mode: https://diessi.ca/blog/writing-mode-in-vs-code/
-
 
 # DevTools - Google Chrome
 
