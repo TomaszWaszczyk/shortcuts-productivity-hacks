@@ -226,6 +226,18 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `pushd` and `popd` - navigation in CLI, really cool!
 
+## Screen
+
+Żeby uruchomic tunel w screenie należy wpisać:
+`screen` i teraz znajduje sie w konsoli i uruchamiam co chce, aby wyjsc z konsoli wpiszemy:
+`CTRL + A + D`
+
+screen -list
+screen -r 9327 (numer z list) - informacja o screenie
+
+$ screen -X -S [session # you want to kill] quit
+CTRL + A + D - wyjscie ze screena po odpaleniu tunela
+
 ## Console and similar
 
 https://asciinema.org
