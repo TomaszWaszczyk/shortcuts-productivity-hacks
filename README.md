@@ -477,6 +477,9 @@ http://css3generator.com/
 
 Flexbox: https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
 
+# Tools
+
+https://dbdiagram.io
 
 # Others
 
