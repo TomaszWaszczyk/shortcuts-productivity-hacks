@@ -448,6 +448,8 @@ https://github.com/wagoodman/dive
 
 `docker cp <containerId>:/file/path/within/container /host/path/target` - coping data from container to host
 
+`docker exec -ti #id bash` - running with bash shell
+
 # Network
 
 Check open ports: https://www.yougetsignal.com/tools/open-ports/
