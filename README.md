@@ -385,6 +385,7 @@ https://github.com/clockfort/GitHub-Backup
 
 50. Comparing two files: `sudo apt install meld`
 
+51. [OPTIONAL] https://github.com/colinkeenan/silentcast - gif recording
 
 # NodeJS
 
