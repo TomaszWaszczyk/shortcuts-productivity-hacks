@@ -389,6 +389,8 @@ https://github.com/clockfort/GitHub-Backup
 
 51. [OPTIONAL] https://github.com/colinkeenan/silentcast - gif recording
 
+52. [OPTIONAL] https://github.com/wtfutil/wtf
+
 # NodeJS
 
 `avn setup` - check versions
