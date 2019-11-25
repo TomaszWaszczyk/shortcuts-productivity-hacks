@@ -226,6 +226,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `pushd` and `popd` - navigation in CLI, really cool!
 
+`toilet -f smbraille --filter border:gay Example text!` - show text in console
+
 ## Screen
 
 Żeby uruchomic tunel w screenie należy wpisać:
