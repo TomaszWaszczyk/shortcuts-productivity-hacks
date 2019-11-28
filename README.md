@@ -159,6 +159,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git reset --hard origin/master` - delete local commits on master
 
+`git commit --allow-empty -m "Trigger notification"` - empty commit
+
 # Linux
 
 `CTRL + U` - delete command in terminal
