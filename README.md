@@ -139,7 +139,7 @@ Bash completion: sudo apt-get install git bash-completion
 
 `git reset /assets/img/unknown.jpg` - delete wrong added file in the repository
 
-`git reset --soft HEAD~1`
+`git reset --soft HEAD~1` - delete last local commit
 
 `git reset /assets/img/unknown.jpg`
 
