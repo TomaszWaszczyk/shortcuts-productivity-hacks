@@ -161,6 +161,10 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git commit --allow-empty -m "Trigger notification"` - empty commit
 
+`git reset HEAD -- <file>` - If you need to remove a single file from the staging area
+
+`git reset HEAD -- <directoryName>` - If you need to remove a whole directory (folder) from the staging area
+
 # Linux
 
 `CTRL + U` - delete command in terminal
