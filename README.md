@@ -473,9 +473,15 @@ http://css3generator.com/
 
 Flexbox: https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
 
-# Tools
+# Tools, recording and streaming
 
 https://dbdiagram.io
+
+https://obsproject.com
+
+https://www.xsplit.com
+
+https://wiki.debian.org/WindowsServerHyperV
 
 # Others
 
