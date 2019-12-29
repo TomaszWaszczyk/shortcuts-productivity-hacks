@@ -484,3 +484,20 @@ https://goalkicker.com
 https://www.airconsole.com
 
 https://github.com/sindresorhus/awesome
+
+# Windows
+
+## Flushing the DNS
+
+As This Issue Occurs because of DNS, We will first try to Flush the DNS and see if this helps, Follow these steps:
+
+Step 1: Press Windows Key + R to open up Run dialogue box
+
+Step 2: Type in CMD and press enter to Open up Command Prompt
+(Alternativele to to Open Command Prompt you Can Press Windows key + X and click on Command Prompt Admin)
+
+Step 3: You will see Command prompt is now open, Now Simply Type the Below Highlighted Command as it is and press enter.
+
+`netsh winsock reset catalog`
+
+Step 4: Once the Above Command is Executed, Now Reboot your PC if you want or try to open the same web page what was showing you the error. There should not be any issue now.
