@@ -234,7 +234,7 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `toilet -f smbraille --filter border:gay Example text!` - show text in console
 
-## Screen
+## Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
 `screen` i teraz znajduje sie w konsoli i uruchamiam co chce, aby wyjsc z konsoli wpiszemy:
