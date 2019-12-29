@@ -501,3 +501,11 @@ Step 3: You will see Command prompt is now open, Now Simply Type the Below Highl
 `netsh winsock reset catalog`
 
 Step 4: Once the Above Command is Executed, Now Reboot your PC if you want or try to open the same web page what was showing you the error. There should not be any issue now.
+
+## Apps
+
+- Lightshot
+
+- ConEmuPack
+
+- https://recordit.co
