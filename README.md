@@ -234,6 +234,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `toilet -f smbraille --filter border:gay Example text!` - show text in console
 
+`dig google.com mx` - check MX for a domain
+
 ## Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
