@@ -401,6 +401,8 @@ https://github.com/clockfort/GitHub-Backup
 
 53. [OPTIONAL] X2GO
 
+54. [OPTIONAL] https://github.com/laurent22/joplin
+
 # NodeJS
 
 `avn setup` - check versions
