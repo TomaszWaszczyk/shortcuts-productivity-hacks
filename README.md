@@ -238,6 +238,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `dig google.com mx` - check MX for a domain
 
+`stress --cpu 99 --vm 4 --vm-bytes 1024M` - make stress..
+
 ## Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
