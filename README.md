@@ -90,6 +90,8 @@ Hide JS files using TypeScript: `File –> Preferences –> Settings -> Files: E
 
 `F11` - show/hide title bar
 
+`SHIFT + ALT` - select text vertically 
+
 Writing mode: https://diessi.ca/blog/writing-mode-in-vs-code/
 
 # DevTools - Google Chrome
