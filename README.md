@@ -240,6 +240,10 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `stress --cpu 99 --vm 4 --vm-bytes 1024M` - make stress..
 
+`cryptsetup luksAddKey [/zaszyfrowana_partycja]` - zmienia hasło na szyfrowanej partycji
+
+`cryptsetup luksHeaderBackup --header-backup-file $PWD/$HOSTNAME-header.backup /dev/[partycja_szyfrowana]` - tworzy kopię zapasową nagłówka zaszyfrowanej partycji
+
 ## Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
