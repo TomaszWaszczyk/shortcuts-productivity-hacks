@@ -72,6 +72,8 @@ Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.re
 
 `ext install Equinusocio.vsc-material-theme`
 
+`ext install cssho.vscode-svgviewer`
+
 `SHIFT + CTRL + P` + "Developer: Toggle Screencast mode"
 
 `Ctrl+K Ctrl+T` - switch theme
