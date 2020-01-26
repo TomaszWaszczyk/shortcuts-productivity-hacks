@@ -1,17 +1,5 @@
 # IDEA Intellij
 
-## Emmet
-
-Lorem*5 <tab>
-
-## Plugins
-
-LiveEdit
-
-Solidity 
-
-Solihint
-
 ## Shortcuts
 
 `ALT + 7` - file structure
