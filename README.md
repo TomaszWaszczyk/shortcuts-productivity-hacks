@@ -157,6 +157,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git reset HEAD -- <directoryName>` - If you need to remove a whole directory (folder) from the staging area
 
+`git submodule update` - update Git modules
+
 # Linux
 
 `CTRL + U` - delete command in terminal
