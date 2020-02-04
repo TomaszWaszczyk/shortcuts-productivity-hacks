@@ -405,6 +405,8 @@ https://github.com/clockfort/GitHub-Backup
 
 55. [OPTIONAL] Install CopyQ
 
+56. https://extensions.gnome.org/extension/1287/unite/ - hide top bar
+
 # NodeJS
 
 `avn setup` - check versions
