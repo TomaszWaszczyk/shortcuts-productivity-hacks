@@ -236,6 +236,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `cryptsetup luksHeaderBackup --header-backup-file $PWD/$HOSTNAME-header.backup /dev/[partycja_szyfrowana]` - tworzy kopię zapasową nagłówka zaszyfrowanej partycji
 
+`printenv` - show all environment variables
+
 ## Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
