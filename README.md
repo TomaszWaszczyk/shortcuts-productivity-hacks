@@ -159,6 +159,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git submodule update` - update Git modules
 
+https://gitexplorer.com/
+
 # Linux
 
 `CTRL + U` - delete command in terminal
