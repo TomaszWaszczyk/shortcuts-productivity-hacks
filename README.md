@@ -161,6 +161,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 https://gitexplorer.com/
 
+https://learngitbranching.js.org/
+
 # Linux
 
 `CTRL + U` - delete command in terminal
