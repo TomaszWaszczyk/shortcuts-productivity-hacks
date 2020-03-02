@@ -159,6 +159,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git submodule update` - update Git modules
 
+`git bisect <subcommand> <options>` - binary search
+
 https://gitexplorer.com/
 
 https://learngitbranching.js.org/
