@@ -244,7 +244,7 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `printenv` - show all environment variables
 
-`time` - example: `time mc` - measure time of command
+`time` - example: `time mc` or `time yarn run start` - measure time of command
 
 ## Screen (corkscrew ssh tunnel)
 
