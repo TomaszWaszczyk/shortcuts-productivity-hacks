@@ -248,6 +248,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `time` - example: `time mc` or `time yarn run start` - measure time of command
 
+`netstat -natp` - look at TCP connections
+
 ## Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
