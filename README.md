@@ -30,7 +30,9 @@
 
 `CTRL + SHIFT + ALT + L` - reformat code
 
-# VS Code
+# Visual Studio Code
+
+`CTRL + D` - find reference of variable
 
 `CTRL + SHIFT + P` then `>Eslint: Fix all auto-fixable Problems`
 
@@ -80,7 +82,7 @@ Hide JS files using TypeScript: `File –> Preferences –> Settings -> Files: E
 
 `F11` - show/hide title bar
 
-`SHIFT + ALT` - select text vertically 
+`SHIFT + ALT` - select text vertically
 
 Writing mode: https://diessi.ca/blog/writing-mode-in-vs-code/
 
