@@ -32,6 +32,10 @@
 
 # Visual Studio Code
 
+`Alt + Up Arrow` - move line up/down
+
+`CTRL + X` - delete a line
+
 `CTRL + D` - find reference of variable
 
 `CTRL + SHIFT + P` then `>Eslint: Fix all auto-fixable Problems`
