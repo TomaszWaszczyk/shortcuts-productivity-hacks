@@ -447,6 +447,8 @@ https://github.com/clockfort/GitHub-Backup
 
 `npm t` === `npm test`
 
+`nvm alias default 12` - set default version
+
 ## Monitoring and profiling
 
 https://newrelic.com
