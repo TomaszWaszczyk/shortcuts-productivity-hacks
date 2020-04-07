@@ -32,6 +32,8 @@
 
 # Visual Studio Code
 
+`CTRL + SHIFT + I` - reformat code
+
 `Alt + Up Arrow` - move line up/down
 
 `CTRL + X` - delete a line
