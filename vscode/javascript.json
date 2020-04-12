@@ -232,7 +232,7 @@
 	  "Insert IMG": {
 		"prefix": "iimg",
 		"body": [
-			"<img src='./img/$1/$2'><br><br>",
+			"<img src=\"./img/$1/$2\"><br><br>",
 		],
 		"description": "Insert image to MD file"
 	}
