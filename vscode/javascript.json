@@ -228,5 +228,12 @@
 		"prefix": "cte",
 		"body": "console.timeEnd(${1:object});",
 		"description": "Sets end point for execution time measurement"
-	  }
+	  },
+	  "Insert IMG": {
+		"prefix": "iimg",
+		"body": [
+			"<img src='./img/$1/$2'><br><br>",
+		],
+		"description": "Insert image to MD file"
+	}
 }
