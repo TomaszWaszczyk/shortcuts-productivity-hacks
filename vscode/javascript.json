@@ -235,5 +235,14 @@
 			"<img src=\"./img/$1/$2\"><br><br>",
 		],
 		"description": "Insert image to MD file"
-	}
+	 },
+	 "Insert details": {
+		"prefix": "iidet",
+		"body": [
+			"<details><summary>$1</summary>",
+			"$2",
+			"</details>"
+		],
+		"description": "Insert details to MD file"
+	 }
 }
