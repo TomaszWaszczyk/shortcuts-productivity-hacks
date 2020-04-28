@@ -262,11 +262,13 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 `screen` i teraz znajduje sie w konsoli i uruchamiam co chce, aby wyjsc z konsoli wpiszemy:
 `CTRL + A + D`
 
-screen -list
-screen -r 9327 (numer z list) - informacja o screenie
+`screen -list` - list of running screens
 
-$ screen -X -S [session # you want to kill] quit
-CTRL + A + D - wyjscie ze screena po odpaleniu tunela
+`screen -r <NUMBER PID>` - go to given screen
+
+`screen -X -S [session # you want to kill]` - quit
+
+`CTRL + A + D` - wyjscie ze screena po odpaleniu tunela
 
 ## Console and similar
 
