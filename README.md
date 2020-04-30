@@ -256,6 +256,15 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `netstat -natp` - look at TCP connections
 
+Setup Terminator:
+
+`Open Terminator
+Right click -> Preferences
+In the Layouts tab (to the right of the Profiles tab), edit the default one, you will see that it says Window | window0 and Terminal | child1.
+For the Terminal | child1, you can set: a Profile (to choose from the installed ones), a Default command, and a Working directory.
+Set it/them to whatever you like, close, reopen again...
+... and voilá!`
+
 ## Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
