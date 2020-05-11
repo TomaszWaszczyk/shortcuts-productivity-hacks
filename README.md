@@ -169,6 +169,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git bisect <subcommand> <options>` - binary search
 
+`git branch | grep -v '^*' | xargs git branch -D` - delete all local branches except master branch (does not matter whether merged or not)
+
 https://gitexplorer.com/
 
 https://learngitbranching.js.org/
