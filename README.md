@@ -171,6 +171,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git branch | grep -v '^*' | xargs git branch -D` - delete all local branches except master branch (does not matter whether merged or not)
 
+`git branch --merged | grep -v '^*' | xargs git branch -D` - delete branches which are merged
+
 https://gitexplorer.com/
 
 https://learngitbranching.js.org/
