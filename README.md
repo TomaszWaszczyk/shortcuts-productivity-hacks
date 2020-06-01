@@ -271,6 +271,20 @@ Set it/them to whatever you like, close, reopen again...
 
 ### Linux as screen cast OS
 
+This is how sound works on Linux: App > Pulse Audio > ALSA > actual soundcard
+
+* Apps can do their own audio processing, although it's uncommon.
+* Pulse certainly does its own audio processings.
+* The later can also be said about ALSA.
+
+So, changing Pulse Audio sample format and sample rate is just the FIRST step to be taken. You have to properly set up ALSA.
+
+Now, I can't tell you how to do that. Not a single recent Ubuntu release allows you to change ALSA settings via configuration files. Apparently, ALSA will always resample everything to 48KHz/16bit and you're stuck to it. I must remind you that ALSA mixing and resampling algorithms are of very, very, low quality, similar to XP's KMixer.
+
+That means: until someone makes it possible to change ALSA sample format and sample frequency on recent (2012/2013) Ubuntu distros, as you can change Pulse's, audio on Linux just SUCKS like hell!
+
+Also, don't set sample rate to "maximum option available", that will do audio resampling and you don't want that! Set sampling rate according to what you hear. If a CD audio: 44.1KHz. If DVD: 48KHz. Bit depth instead should always be the highest available, whereas 24bit seems to be the highest the best cards can handle.
+
 1. Remove noise from recording
 
 `sudo nano /etc/pulse/default.pa` and uncomment following line: `load-module module-echo-cancel` and restart
