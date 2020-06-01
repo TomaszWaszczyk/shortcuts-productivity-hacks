@@ -269,7 +269,18 @@ For the Terminal | child1, you can set: a Profile (to choose from the installed 
 Set it/them to whatever you like, close, reopen again...
 ... and voilá!`
 
-## Screen (corkscrew ssh tunnel)
+### Linux as screen cast OS
+
+1. Remove noise from recording
+
+`sudo nano /etc/pulse/default.pa` and uncomment following line: `load-module module-echo-cancel` and restart
+
+`pulseaudio -k
+pulseaudio --start`
+
+2. Make better sound quality
+
+### Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
 `screen` i teraz znajduje sie w konsoli i uruchamiam co chce, aby wyjsc z konsoli wpiszemy:
