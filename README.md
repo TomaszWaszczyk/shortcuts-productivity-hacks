@@ -294,6 +294,10 @@ pulseaudio --start`
 
 2. Make better sound quality
 
+The default sample rate is defined in the pulseaudio `daemon.conf` located in `/etc/pulse`, or in case you need user-defined settings in `~/.pulse`. Uncomment and edit the follwing line there
+
+`default-sample-rate = 48000`
+
 ### Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
