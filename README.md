@@ -321,7 +321,9 @@ https://asciinema.org
 
 * VPN: https://askubuntu.com/questions/1032476/ubuntu-18-04-no-dns-resolution-when-connected-to-openvpn
 
-## Links
+## Links and security
+
+https://github.com/EdwardAThomson/linux-auditing-hardening/blob/master/debian-ubuntu/auditing-process.md
 
 http://manpages.ubuntu.com
 
