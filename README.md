@@ -573,6 +573,14 @@ https://www.airconsole.com
 
 https://github.com/sindresorhus/awesome
 
+# Backup of Github account
+
+https://gist.github.com/rodw/3073987
+
+https://docs.gitlab.com/ee/user/project/import/github.html
+
+https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html
+
 # Windows
 
 ## Flushing the DNS
