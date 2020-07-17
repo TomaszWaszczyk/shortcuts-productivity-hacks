@@ -177,6 +177,8 @@ https://gitexplorer.com/
 
 https://learngitbranching.js.org/
 
+`git push origin --delete remoteBranchName` - delete branch remotely
+
 # Linux
 
 `CTRL + U` - delete command in terminal
