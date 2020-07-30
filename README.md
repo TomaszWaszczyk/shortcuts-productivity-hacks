@@ -471,7 +471,7 @@ https://github.com/clockfort/GitHub-Backup
 
 54. [OPTIONAL] https://github.com/laurent22/joplin
 
-55. [OPTIONAL] Install CopyQ
+55. [OPTIONAL] Install CopyQ || Diodon
 
 56. https://extensions.gnome.org/extension/1287/unite/ - hide top bar
 
