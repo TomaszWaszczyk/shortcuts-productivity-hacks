@@ -475,7 +475,7 @@ https://github.com/clockfort/GitHub-Backup
 
 56. https://extensions.gnome.org/extension/1287/unite/ - hide top bar
 
-57. https://obsproject.com/
+57. https://obsproject.com/ (https://askubuntu.com/questions/72679/is-there-any-sound-enhancers-equalizer)
 
 # NodeJS
 
