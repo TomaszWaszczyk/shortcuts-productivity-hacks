@@ -477,6 +477,10 @@ https://github.com/clockfort/GitHub-Backup
 
 57. https://obsproject.com/ (https://askubuntu.com/questions/72679/is-there-any-sound-enhancers-equalizer)
 
+58. https://rawtherapee.com/
+
+59. https://www.darktable.org/install/
+
 # NodeJS
 
 `avn setup` - check versions
