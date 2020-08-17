@@ -481,7 +481,7 @@ https://github.com/clockfort/GitHub-Backup
 
 59. https://www.darktable.org/install/
 
-60. [Podcast and sound] https://www.roomeqwizard.com/
+60. [Podcast and sound] https://www.roomeqwizard.com/ || https://getpopcorntime.is
 
 # NodeJS
 
