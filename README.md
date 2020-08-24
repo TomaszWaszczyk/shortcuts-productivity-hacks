@@ -483,6 +483,10 @@ https://github.com/clockfort/GitHub-Backup
 
 60. [Podcast and sound] https://www.roomeqwizard.com/ || https://getpopcorntime.is
 
+61. ULauncher
+
+62. [OPTIONAL] Kdenlive
+
 # NodeJS
 
 `avn setup` - check versions
