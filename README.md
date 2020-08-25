@@ -181,6 +181,8 @@ https://learngitbranching.js.org/
 
 # Linux
 
+`sudo journalctl -xe | tail -25` - journal of Linux, logs from a system
+
 `CTRL + U` - delete command in terminal
 
 `CTRL + H` - show/hide files/directories in files expolorer
