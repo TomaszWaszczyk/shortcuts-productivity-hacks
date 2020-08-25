@@ -264,6 +264,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `netstat -natp` - look at TCP connections
 
+https://extensions.gnome.org/extension/1683/draw-on-you-screen/
+
 Setup Terminator:
 
 `Open Terminator
