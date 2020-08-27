@@ -96,6 +96,16 @@ Writing mode: https://diessi.ca/blog/writing-mode-in-vs-code/
 
 `CTRL + SHIFT + M` - mobile/responsive view
 
+W incognito nie ma cacheu ani profilu
+
+Chrome DevTools -> SHIFT x 6
+
+Request blocking in DevTools
+
+DevTools Rendering Paint flashing!
+
+chrome://flags/ -> experiments -> enabled
+
 https://developers.google.com/web/tools/lighthouse/
 
 # FireFox 
