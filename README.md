@@ -287,6 +287,14 @@ For the Terminal | child1, you can set: a Profile (to choose from the installed 
 Set it/them to whatever you like, close, reopen again...
 ... and voilá!`
 
+### Linux logs tracing
+
+`dmesg | less` - show logs (/var/log/*)
+
+`tail -f /var/log/syslog` - show current logs or `tail -f -n 5 /var/log/syslog`
+
+more, grep, head, cat, multitail
+
 ### Linux as screen cast OS
 
 This is how sound works on Linux: App > Pulse Audio > ALSA > actual soundcard
