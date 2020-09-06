@@ -217,10 +217,6 @@ https://learngitbranching.js.org/
 
 `history` - terminal history, example usage: `history | grep export` or `history 100`
 
-https://stedolan.github.io/jq/
-
-https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
-
 `df -ah` - disk usage or `df -h`
 
 `du -sh <directory>` - disk usage of given directory
@@ -286,6 +282,14 @@ In the Layouts tab (to the right of the Profiles tab), edit the default one, you
 For the Terminal | child1, you can set: a Profile (to choose from the installed ones), a Default command, and a Working directory.
 Set it/them to whatever you like, close, reopen again...
 ... and voilá!`
+
+### Terminal
+
+https://stedolan.github.io/jq/
+
+https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
+
+https://medium.com/@falieson/setup-zsh-w-antigen-and-a-spacey-theme-7a66808218dc
 
 ### Linux logs tracing
 
