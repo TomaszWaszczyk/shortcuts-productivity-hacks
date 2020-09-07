@@ -597,6 +597,14 @@ https://dbdiagram.io
 
 https://obsproject.com
 
+Settings for OBS:
+
+```
+Bitrate: ~25000
+Mic: -10.0dB
+x264 - CPU nVECx
+```
+
 https://www.xsplit.com
 
 https://wiki.debian.org/WindowsServerHyperV
