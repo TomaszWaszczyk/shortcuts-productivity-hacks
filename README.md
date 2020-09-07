@@ -601,7 +601,7 @@ Settings for OBS:
 
 ```
 Bitrate: ~25000
-Mic: -10.0dB
+Mic: -11.0dB
 x264 - CPU nVECx
 ```
 
