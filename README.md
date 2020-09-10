@@ -515,6 +515,8 @@ https://github.com/clockfort/GitHub-Backup
 
 62. [OPTIONAL] Kdenlive
 
+63. [OPTIONAL] `sudo apt install indicator-multiload` - CPU indicator bar
+
 # NodeJS
 
 `avn setup` - check versions
