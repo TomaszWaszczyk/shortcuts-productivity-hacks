@@ -611,6 +611,8 @@ https://www.xsplit.com
 
 https://wiki.debian.org/WindowsServerHyperV
 
+https://extensions.gnome.org/extension/1683/draw-on-you-screen/ + `SUPER + ALT + D`
+
 # Others
 
 https://github.com/charlax/professional-programming
