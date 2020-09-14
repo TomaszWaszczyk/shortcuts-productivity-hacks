@@ -328,6 +328,8 @@ The default sample rate is defined in the pulseaudio `daemon.conf` located in `/
 
 `default-sample-rate = 48000`
 
+3. Davinci Resolve https://www.blackmagicdesign.com/products/davinciresolve/
+
 ### Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
@@ -616,6 +618,8 @@ https://wiki.debian.org/WindowsServerHyperV
 https://extensions.gnome.org/extension/1683/draw-on-you-screen/ + `SUPER + ALT + D`
 
 http://www.styluslabs.com/download/
+
+https://www.blackmagicdesign.com/products/davinciresolve/
 
 # Others
 
