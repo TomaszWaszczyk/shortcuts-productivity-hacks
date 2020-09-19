@@ -94,6 +94,8 @@ Hide JS files using TypeScript: `File –> Preferences –> Settings -> Files: E
 
 Writing mode: https://diessi.ca/blog/writing-mode-in-vs-code/
 
+https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5
+
 # DevTools - Google Chrome
 
 `CTRL + SHIFT + M` - mobile/responsive view
