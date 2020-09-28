@@ -287,6 +287,8 @@ For the Terminal | child1, you can set: a Profile (to choose from the installed 
 Set it/them to whatever you like, close, reopen again...
 ... and voilá!`
 
+`systemd-analyze` - analyze of Linux startup (result could be ploted)
+
 ### Terminal
 
 https://stedolan.github.io/jq/
