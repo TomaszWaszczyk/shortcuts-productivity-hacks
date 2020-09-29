@@ -687,3 +687,8 @@ Step 4: Once the Above Command is Executed, Now Reboot your PC if you want or tr
 # Trends
 
 https://github.com/collections
+
+# Linux distros
+
+https://getsol.us/solus/about/
+
