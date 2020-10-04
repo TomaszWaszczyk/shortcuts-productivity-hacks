@@ -34,6 +34,8 @@ Book: "tmux: Productive Mouse-Free Development"
 
 # Visual Studio Code
 
+`code . _ ` - open VSC in current directory
+
 `CTRL + SHIFT + I` - reformat code
 
 `Alt + Up Arrow` - move line up/down
