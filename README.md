@@ -293,7 +293,17 @@ Set it/them to whatever you like, close, reopen again...
 
 `systemd-analyze` - analyze of Linux startup (result could be ploted)
 
-### Terminal
+## Killing process
+
+`kill -15` is to gracefully kill a process. But, killing a process is something that happens instantaneously. So the program above is going to check for pid, attempting to kill it gracefully .. If the `kill -15` fails -- The `kill -9` is performed. The way it knows that `kill -15` failed, is the grep command. If `kill -15` was successful, that pid should not exist any longer, making the following grep return empty.
+
+So really, `kill -9` only runs if `kill -15` failed to gracefully stop the program. The problem with this approach, is that sometimes gracefully stopping a process can take some time depending on the program. So IMHO there needs to be a wait period or a sleep for a few seconds to allow `kill -15` to attempt to gracefully stop the process .. Most assuredly with the approach above, `kill -9` is almost always invoked since the script doesn't allow much time for the process to be shut down properly. In the event that `kill -15` is still processing, `kill -9` will just override and instantly stop the process.
+
+`kill -9` - morduj
+
+`kill -15` - zamknij się grzecznie drogi procesie (-;
+
+## Terminal
 
 https://stedolan.github.io/jq/
 
