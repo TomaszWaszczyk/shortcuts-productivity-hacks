@@ -56,8 +56,6 @@ https://github.com/eamodio/vscode-gitlens
 
 `ext install CoenraadS.bracket-pair-colorizer-2`
 
-Instead of Postman: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
-
 `CTRL + SHIFT + B` - Gulp's builds
 
 `CTRL + SHIFT + V`- preview of *.md file while editing 
