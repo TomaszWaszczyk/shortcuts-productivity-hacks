@@ -605,6 +605,10 @@ https://github.com/wagoodman/dive
 
 `docker exec -ti #id bash` - running with bash shell
 
+`docker volume ls` - show all volumes
+
+`docker volume inspect my-volume` - inspect Docker's volume 
+
 # Network
 
 Check open ports: https://www.yougetsignal.com/tools/open-ports/
