@@ -195,7 +195,7 @@ https://learngitbranching.js.org/
 
 # Linux
 
-`sudo apt install bash-completion` - auto completation in Terminal
+`sudo lsof -i:22` - see a specific port such as 22
 
 `sudo journalctl -xe | tail -25` - journal of Linux, logs from a system
 
@@ -538,6 +538,8 @@ https://github.com/clockfort/GitHub-Backup
 62. [OPTIONAL] Kdenlive
 
 63. [OPTIONAL] `sudo apt install indicator-multiload` - CPU indicator bar
+
+64. `sudo apt install bash-completion` - auto completation in Terminal
 
 # NodeJS
 
