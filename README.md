@@ -319,6 +319,31 @@ https://medium.com/@falieson/setup-zsh-w-antigen-and-a-spacey-theme-7a66808218dc
 
 more, grep, head, cat, multitail
 
+### Write to file
+
+```
+          || visible in terminal ||   visible in file   || existing
+  Syntax  ||  StdOut  |  StdErr  ||  StdOut  |  StdErr  ||   file   
+==========++==========+==========++==========+==========++===========
+    >     ||    no    |   yes    ||   yes    |    no    || overwrite
+    >>    ||    no    |   yes    ||   yes    |    no    ||  append
+          ||          |          ||          |          ||
+   2>     ||   yes    |    no    ||    no    |   yes    || overwrite
+   2>>    ||   yes    |    no    ||    no    |   yes    ||  append
+          ||          |          ||          |          ||
+   &>     ||    no    |    no    ||   yes    |   yes    || overwrite
+   &>>    ||    no    |    no    ||   yes    |   yes    ||  append
+          ||          |          ||          |          ||
+ | tee    ||   yes    |   yes    ||   yes    |    no    || overwrite
+ | tee -a ||   yes    |   yes    ||   yes    |    no    ||  append
+          ||          |          ||          |          ||
+ n.e. (*) ||   yes    |   yes    ||    no    |   yes    || overwrite
+ n.e. (*) ||   yes    |   yes    ||    no    |   yes    ||  append
+          ||          |          ||          |          ||
+|& tee    ||   yes    |   yes    ||   yes    |   yes    || overwrite
+|& tee -a ||   yes    |   yes    ||   yes    |   yes    ||  append
+```
+
 ### Linux as screen cast OS
 
 This is how sound works on Linux: App > Pulse Audio > ALSA > actual soundcard
