@@ -609,7 +609,11 @@ https://github.com/wagoodman/dive
 
 `docker volume ls` - show all volumes
 
-`docker volume inspect my-volume` - inspect Docker's volume 
+`docker volume inspect my-volume` - inspect Docker's volume
+
+# MQTT
+
+`mosquitto_sub -h 192.168.0.122 -t x` - subscribe to topic x
 
 # Network
 
