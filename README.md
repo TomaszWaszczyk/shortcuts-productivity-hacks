@@ -32,6 +32,12 @@ Book: "tmux: Productive Mouse-Free Development"
 
 `CTRL + SHIFT + ALT + L` - reformat code
 
+# PyCharm
+
+`File | Settings | Editor | Font for Windows and Linux ... (Zoom) with Ctrl + Mouse Wheel` - mouse wheel zoom
+
+`Ctrl + Shift + F10` - run current file
+
 # Visual Studio Code
 
 `code . _ ` - open VSC in current directory
