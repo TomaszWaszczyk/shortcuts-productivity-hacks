@@ -32,7 +32,7 @@ Book: "tmux: Productive Mouse-Free Development"
 
 `CTRL + SHIFT + ALT + L` - reformat code
 
-# PyCharm
+# PyCharm (PEP8 - best practices in Python)
 
 `File | Settings | Editor | Font for Windows and Linux ... (Zoom) with Ctrl + Mouse Wheel` - mouse wheel zoom
 
