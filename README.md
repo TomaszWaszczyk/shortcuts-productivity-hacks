@@ -572,6 +572,8 @@ https://github.com/clockfort/GitHub-Backup
 
 64. `sudo apt install bash-completion` - auto completation in Terminal
 
+65. [OPTIONAL] https://lazpaint.github.io/
+
 # NodeJS
 
 `avn setup` - check versions
