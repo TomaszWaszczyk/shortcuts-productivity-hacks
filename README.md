@@ -301,6 +301,8 @@ Set it/them to whatever you like, close, reopen again...
 
 `nohup`
 
+`export $(cat .env | xargs)` - export env variables 
+
 ## Killing process
 
 `kill -15` is to gracefully kill a process. But, killing a process is something that happens instantaneously. So the program above is going to check for pid, attempting to kill it gracefully .. If the `kill -15` fails -- The `kill -9` is performed. The way it knows that `kill -15` failed, is the grep command. If `kill -15` was successful, that pid should not exist any longer, making the following grep return empty.
