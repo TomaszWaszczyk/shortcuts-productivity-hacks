@@ -580,6 +580,8 @@ https://github.com/clockfort/GitHub-Backup
 
 66. [Ubuntu] Ustaw automatyczne usuwanie plików tymczasowych
 
+67. `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
+
 # NodeJS
 
 `avn setup` - check versions
