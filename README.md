@@ -578,6 +578,8 @@ https://github.com/clockfort/GitHub-Backup
 
 65. [OPTIONAL] https://lazpaint.github.io/
 
+66. [Ubuntu] Ustaw automatyczne usuwanie plików tymczasowych
+
 # NodeJS
 
 `avn setup` - check versions
