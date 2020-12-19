@@ -199,6 +199,14 @@ https://learngitbranching.js.org/
 
 `git push origin --delete remoteBranchName` - delete branch remotely
 
+# Github
+
+`ssh -T git@github.com`
+
+`git clone git@github.com:USERNAME/Repo.git`
+
+`git remote set-url origin git@github.com:USERNAME/Repo.git`
+
 # Linux
 
 `sudo lsof -i:22` - see a specific port such as 22
