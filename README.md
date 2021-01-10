@@ -434,6 +434,16 @@ http://manpages.ubuntu.com
 
 https://github.com/clockfort/GitHub-Backup
 
+# Wacom
+
+## Set relative position
+
+1. `xsetwacom --list devices`
+
+Then use that ID to set the Mode to Relative for your stylus:
+
+2. `xsetwacom ---set $STYLUS_ID Mode "Relative"`
+
 # New Linux installation
 
 1. Firefox - disable title bar (Firefox -> Customie -> Bottom Left "Title bar" -> uncheck)
