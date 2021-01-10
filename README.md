@@ -444,6 +444,10 @@ Then use that ID to set the Mode to Relative for your stylus:
 
 2. `xsetwacom ---set $STYLUS_ID Mode "Relative"`
 
+## Get all parameters
+
+`xsetwacom --get 20 all`
+
 # New Linux installation
 
 1. Firefox - disable title bar (Firefox -> Customie -> Bottom Left "Title bar" -> uncheck)
