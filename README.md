@@ -209,6 +209,8 @@ https://learngitbranching.js.org/
 
 # Linux
 
+`Super + ←/→` - split window to half of screen
+
 `sudo lsof -i:22` - see a specific port such as 22
 
 `sudo journalctl -xe | tail -25` - journal of Linux, logs from a system
