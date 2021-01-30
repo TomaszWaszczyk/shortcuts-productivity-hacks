@@ -261,7 +261,7 @@ https://learngitbranching.js.org/
 
 `sudo apt install resolvconf` - permanent change of `resolv.conf` in Ubuntu 18.04+
 
-`pulseaudio -k` - restart PulseAudio (sound)
+`pulseaudio -k` - restart PulseAudio (sound) or `alsactl restore`
 
 https://github.com/oguzhaninan/Buka
 
