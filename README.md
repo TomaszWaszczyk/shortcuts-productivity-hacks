@@ -106,6 +106,8 @@ https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c68
 
 `CTRL + SHIFT + M` - mobile/responsive view
 
+`CTRL + SHIFT + P` - in Chrome DevTools, go to any tab like: "Show changes in" or "Performance monitor"
+
 W incognito nie ma cacheu ani profilu
 
 Chrome DevTools -> SHIFT x 6
