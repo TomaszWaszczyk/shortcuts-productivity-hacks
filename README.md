@@ -209,6 +209,8 @@ https://learngitbranching.js.org/
 
 `git remote set-url origin git@github.com:USERNAME/Repo.git`
 
+`t` - activates the file finder :rocket:
+
 # Linux
 
 `Super + ←/→` - split window to half of screen
