@@ -4,6 +4,8 @@ Book: "tmux: Productive Mouse-Free Development"
 
 ## Shortcuts
 
+!! `CTRL + K + F` - format code according Prettier's rules
+
 `ALT + 7` - file structure
 
 `ALT + 9` - local changes
