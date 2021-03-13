@@ -42,6 +42,8 @@ Book: "tmux: Productive Mouse-Free Development"
 
 # Visual Studio Code
 
+`CTRL + K + F` - format code according formatter or `CTRL + SHIFT + P` and type "Format with.."
+
 `code . _ ` - open VSC in current directory
 
 `CTRL + SHIFT + I` - reformat code
