@@ -217,6 +217,8 @@ https://learngitbranching.js.org/
 
 # Linux
 
+You should use option `-m` to create the home dir when doing `useradd`
+
 `Super + ←/→` - split window to half of screen
 
 `sudo lsof -i:22` - see a specific port such as 22
