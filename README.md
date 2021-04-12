@@ -616,6 +616,10 @@ Then use that ID to set the Mode to Relative for your stylus:
 
 67. `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
 
+# Slimbook
+
+`Hold SHIFT` - GRUB menu
+
 # NodeJS
 
 `avn setup` - check versions
