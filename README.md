@@ -714,6 +714,8 @@ https://dbdiagram.io
 
 https://obsproject.com
 
+https://www.cinelerra-gg.org/
+
 Settings for OBS:
 
 ```
