@@ -403,7 +403,7 @@ The default sample rate is defined in the pulseaudio `daemon.conf` located in `/
 
 `default-sample-rate = 48000`
 
-3. Davinci Resolve https://www.blackmagicdesign.com/products/davinciresolve/
+3. Davinci Resolve https://www.blackmagicdesign.com/products/davinciresolve/ (https://github.com/Ashark/davinci-resolve-checker)
 
 ### Screen (corkscrew ssh tunnel)
 
