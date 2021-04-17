@@ -405,6 +405,8 @@ The default sample rate is defined in the pulseaudio `daemon.conf` located in `/
 
 3. Davinci Resolve https://www.blackmagicdesign.com/products/davinciresolve/ (https://github.com/Ashark/davinci-resolve-checker) || https://www.shotcut.org/
 
+`ffprobe <example.mp4>` - checking codecs of a file 
+
 ### Screen (corkscrew ssh tunnel)
 
 Żeby uruchomic tunel w screenie należy wpisać:
