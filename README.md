@@ -217,6 +217,8 @@ https://learngitbranching.js.org/
 
 # Linux
 
+`journalctl -p err..alert` - show errors in the system
+
 You should use option `-m` to create the home dir when doing `useradd`
 
 `Super + ←/→` - split window to half of screen
