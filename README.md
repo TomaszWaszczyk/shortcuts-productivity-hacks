@@ -696,6 +696,19 @@ https://github.com/wagoodman/dive
 
 `docker volume inspect my-volume` - inspect Docker's volume
 
+Cleaning:
+
+```
+docker stop $(docker ps -q)
+docker rm $(docker ps -aq)
+docker images purge
+docker rmi $(docker images -a -q)
+docker volume rm $(docker volume ls -q)
+docker network prune
+docker image prune -a
+docker system prune -a --volumes
+```
+
 # MQTT
 
 `mosquitto_sub -h 192.168.0.122 -t x` - subscribe to topic x
