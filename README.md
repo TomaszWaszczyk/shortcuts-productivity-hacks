@@ -343,6 +343,19 @@ https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 https://medium.com/@falieson/setup-zsh-w-antigen-and-a-spacey-theme-7a66808218dc
 
+One of biggest productivity boosters was setting up: https://github.com/junegunn/fzf
+You should look into it. It gives you ability to press:
+CTRL+D - fuzzy find any directory on your system and jump to it,
+CTRL+R - fuzzy find any previous command you typed and use it
+CTRL+F - fuzzy find any file on filesystem
+
+I've edited some shortcuts, but this is my setup.
+Fuzzy commands you can type can be:
+> home Projects .py$ !virtualenv
+Which would search for all files ending with .py in with paths containing home and Projects and not containing virtualenv,
+
+In order to get better speed boost, replace find command they use with fd (https://github.com/sharkdp/fd)
+
 ### Linux logs tracing
 
 `dmesg | less` - show logs (/var/log/*)
