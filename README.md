@@ -436,6 +436,8 @@ The default sample rate is defined in the pulseaudio `daemon.conf` located in `/
 
 `CTRL + A + D` - wyjscie ze screena po odpaleniu tunela
 
+https://github.com/lawl/NoiseTorch
+
 ## Console and similar
 
 https://asciinema.org
