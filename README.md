@@ -754,6 +754,13 @@ Settings for OBS:
 Bitrate: ~25000
 Mic: -11.0dB
 x264 - CPU nVECx
+
+
+rozdzielczść 1080p30
+bitrate video 6000kbs
+bitrate audio 192kbs
+właczona sprzętowa akceleracja NVENC! (trzeba mieć kartą graficzną Nvidia - bez niej za bardzo stream obciąży procesor)
+
 ```
 
 https://www.xsplit.com
