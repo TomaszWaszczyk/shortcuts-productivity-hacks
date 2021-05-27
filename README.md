@@ -438,6 +438,8 @@ The default sample rate is defined in the pulseaudio `daemon.conf` located in `/
 
 https://github.com/lawl/NoiseTorch
 
+`wget -q0 - https://github.com/TomaszWaszczyk/shortcuts-productive-hacks/blob/master/linux/fix-mic-noise.sh | sudo bash && pulseaudio -k`
+
 ```
 # Microphone Realtime background noise reduction script
 # author Luigi Maselli - https://grigio.org licence: AS-IS
