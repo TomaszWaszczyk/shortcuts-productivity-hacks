@@ -465,6 +465,8 @@ https://asciinema.org
 
 ## Links and security
 
+`systemd`: https://www.devdungeon.com/content/creating-systemd-service-files
+
 https://github.com/EdwardAThomson/linux-auditing-hardening/blob/master/debian-ubuntu/auditing-process.md
 
 http://manpages.ubuntu.com
