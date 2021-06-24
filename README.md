@@ -653,7 +653,7 @@ Then use that ID to set the Mode to Relative for your stylus:
 
 67. `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
 
-68. Try disabling automatically switching to hot-plugged audio devices by editing /etc/pulse/default.pa. Look for
+68. Try disabling automatically switching (set default audio playback device) to hot-plugged audio devices by editing /etc/pulse/default.pa. Look for
 
 ```
 ### Use hot-plugged devices like Bluetooth or USB automatically (LP: #1702794)
