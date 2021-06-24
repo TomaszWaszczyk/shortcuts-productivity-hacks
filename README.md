@@ -653,6 +653,22 @@ Then use that ID to set the Mode to Relative for your stylus:
 
 67. `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
 
+68. Try disabling automatically switching to hot-plugged audio devices by editing /etc/pulse/default.pa. Look for
+
+```
+### Use hot-plugged devices like Bluetooth or USB automatically (LP: #1702794)
+.ifexists module-switch-on-connect.so
+load-module module-switch-on-connect
+.endif
+```
+and comment it out the section to disable loading the module.
+```
+### Use hot-plugged devices like Bluetooth or USB automatically (LP: #1702794)
+#.ifexists module-switch-on-connect.so
+#load-module module-switch-on-connect
+#.endif
+```
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
