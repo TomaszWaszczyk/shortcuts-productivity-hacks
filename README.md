@@ -356,6 +356,12 @@ Which would search for all files ending with .py in with paths containing home a
 
 In order to get better speed boost, replace find command they use with fd (https://github.com/sharkdp/fd)
 
+`CTRL + r` - reverse searches through command history
+
+`CTRL + s` - reverse searches through command history (search forward)
+
+`CTRL + u` - clean written text/command
+
 ### Linux logs tracing
 
 `dmesg | less` - show logs (/var/log/*)
