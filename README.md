@@ -674,6 +674,11 @@ and comment it out the section to disable loading the module.
 #load-module module-switch-on-connect
 #.endif
 ```
+https://easylinuxtipsproject.blogspot.com/p/clean-mint.html
+
+https://easylinuxtipsproject.blogspot.com/p/fatal-mistakes.html#ID4
+
+https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 
 # Slimbook
 
