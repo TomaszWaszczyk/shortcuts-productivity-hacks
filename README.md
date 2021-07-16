@@ -674,13 +674,6 @@ and comment it out the section to disable loading the module.
 #load-module module-switch-on-connect
 #.endif
 ```
-`sudo journalctl --vacuum-size=50M` - set buffer for systemd
-
-https://easylinuxtipsproject.blogspot.com/p/clean-mint.html
-
-https://easylinuxtipsproject.blogspot.com/p/fatal-mistakes.html#ID4
-
-https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 
 # Slimbook
 
@@ -689,6 +682,13 @@ https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 # Clear OS
 
 1. Deleting contents of `~/.local/share/Trash/expunged`
+2. `sudo journalctl --vacuum-size=50M` - set buffer for systemd
+
+https://easylinuxtipsproject.blogspot.com/p/clean-mint.html
+
+https://easylinuxtipsproject.blogspot.com/p/fatal-mistakes.html#ID4
+
+https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 
 # NodeJS
 
