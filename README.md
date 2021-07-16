@@ -686,6 +686,10 @@ https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 
 `Hold SHIFT` - GRUB menu
 
+# Clear OS
+
+1. Deleting contents of `~/.local/share/Trash/expunged`
+
 # NodeJS
 
 `avn setup` - check versions
