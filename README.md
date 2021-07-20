@@ -199,6 +199,8 @@ https://github.com/stevemao/awesome-git-addons - Git's addons
 
 `git branch --merged | grep -v '^*' | xargs git branch -D` - delete branches which are merged
 
+`git config --global rerere.enabled true`
+
 https://gitexplorer.com/
 
 https://learngitbranching.js.org/
