@@ -663,6 +663,8 @@ Then use that ID to set the Mode to Relative for your stylus:
 
 68. Try disabling automatically switching (set default audio playback device) to hot-plugged audio devices by editing /etc/pulse/default.pa. Look for
 
+https://nosystemd.org/
+
 ```
 ### Use hot-plugged devices like Bluetooth or USB automatically (LP: #1702794)
 .ifexists module-switch-on-connect.so
