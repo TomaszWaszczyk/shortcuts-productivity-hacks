@@ -694,6 +694,16 @@ https://easylinuxtipsproject.blogspot.com/p/fatal-mistakes.html#ID4
 
 https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 
+# systemd
+
+`systemctl list-unit-files --type service` - list of services
+
+`systemctl enable kusama-validator.service` - enable service
+
+`systemctl start/stop/status kusama-validator.service` - start/stop service or check status
+
+`journalctl -f -u bitcountry-validator.service` - see logs
+
 # NodeJS
 
 `avn setup` - check versions
