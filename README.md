@@ -701,7 +701,11 @@ and comment it out the section to disable loading the module.
 # Clear OS
 
 1. Deleting contents of `~/.local/share/Trash/expunged`
-2. `sudo journalctl --vacuum-size=50M` - set buffer for systemd
+2. `sudo journalctl --vacuum-size=50M` - set buffer for systemd or you can set this in `/etc/systemd/journald.conf` like so:
+
+```
+SystemMaxUse=100M
+```
 
 https://easylinuxtipsproject.blogspot.com/p/clean-mint.html
 
