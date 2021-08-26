@@ -694,6 +694,8 @@ and comment it out the section to disable loading the module.
 #.endif
 ```
 
+70. Configure scroll wheel in Firefox: `about:config` and look for `mousewheel.min_line_scroll_amount`
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
