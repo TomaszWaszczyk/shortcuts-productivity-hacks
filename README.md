@@ -327,7 +327,27 @@ Set it/them to whatever you like, close, reopen again...
 
 `nohup`
 
-`export $(cat .env | xargs)` - export env variables 
+`export $(cat .env | xargs)` - export env variables
+
+## Linux log monitoring
+
+`tail -f location_of_log_file` - follow the tail of a file
+
+`tail -f log_file | grep search_term` - combine the tail and grep
+
+`tail -f log_file | grep -C 3 search_term` - see the lines matching the search term along with 3 lines before and after it. This will give a better perspective on what's happening
+
+`tail -f log_file | grep -C 3 -i - E 'search_term_1|search_term_2'` - grep on multiple search term and even make it a case insensitive search
+
+`tail --follow=name log_file | grep -C 3 -i - E 'search_term_1|search_term_2'` - tailing the file with log rotation, follow a log file by its name, this way, even when log rotation takes place, the tail will be pointing to the current log file (because its name never changes)
+
+`tail -f log_file_1 -f log_file_2` - watching multiple log files with tail
+
+`multitail log_file_1 log_file_2` - provide several files to it but I think more than 3 files would be difficult to follow at a time
+
+`multitail -s 2 log_file_1 log_file_2` - split the views in columns
+
+`less +F log_file` - the option `+F` allows less to follow the changes made to a text file
 
 ## Killing process
 
