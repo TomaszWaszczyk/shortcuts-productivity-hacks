@@ -484,10 +484,23 @@ set-default-sink noechosink
 EOT
 ```
 
-## Console and similar
+### Console and similar
 
 https://asciinema.org
 
+### tmux
+
+CTRL + B then , - rename of a tab
+
+CTRL + B then C - create a tab
+
+CTRL + B then [0 - 9] - select a tab
+
+CTRL + B then % - split vertically
+
+CTRL + B then " - split horizontally
+
+CTRL + B then [right, left, up, down] - switch terminals
 
 ### Known issues
 
