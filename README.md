@@ -361,6 +361,10 @@ So really, `kill -9` only runs if `kill -15` failed to gracefully stop the progr
 
 ## Terminal
 
+`sudo !!` - execute with `sudo` last command
+
+`less +F` - show nicely logs starting from last entries
+
 https://stedolan.github.io/jq/
 
 https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
