@@ -329,7 +329,11 @@ Set it/them to whatever you like, close, reopen again...
 
 `export $(cat .env | xargs)` - export env variables
 
-## Linux log monitoring
+## Linux logging and monitoring
+
+`journalctl -f` - follow logs
+
+`journalctl --list-boots` - list of boots
 
 `tail -f location_of_log_file` - follow the tail of a file
 
