@@ -739,6 +739,7 @@ and comment it out the section to disable loading the module.
 71. [OPTIONAL] https://natrongithub.github.io/ - VFX and Motion Graphics
 72. Rapid Photo Downloader - https://damonlynch.net/rapid/index.html
 73. Draw on screen: `sudo apt install gromit-mpx`
+74. Conky
 
 # Slimbook
 
