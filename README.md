@@ -745,6 +745,8 @@ and comment it out the section to disable loading the module.
 
 `Hold SHIFT` - GRUB menu
 
+`apt install isenkram && isenkram-autoinstall-firmware` - try to download all missing firmware
+
 # Clear OS
 
 1. Deleting contents of `~/.local/share/Trash/expunged`
