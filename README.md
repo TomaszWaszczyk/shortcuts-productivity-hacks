@@ -620,7 +620,7 @@ Then use that ID to set the Mode to Relative for your stylus:
 
 25. Themes: https://itsfoss.com/install-themes-ubuntu/
 
-26. [OPTIONAL] Install TLP - Power management tool for Linux
+26. [OPTIONAL] Install TLP - Power management tool for Linux (`sudo powertop --calibrate`)
 
 27. [OPTIONAL] Byobu - multiterminal - http://www.byobu.co/ (alternative to Terminator)
 
