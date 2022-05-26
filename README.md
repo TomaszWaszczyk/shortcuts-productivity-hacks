@@ -516,6 +516,8 @@ CTRL + B then [right, left, up, down] - switch terminals
 
 ## Links and security
 
+`ps -e | grep X` - check Xorg or XWayland
+
 `systemd`: https://www.devdungeon.com/content/creating-systemd-service-files
 
 https://github.com/EdwardAThomson/linux-auditing-hardening/blob/master/debian-ubuntu/auditing-process.md
