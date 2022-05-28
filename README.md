@@ -544,11 +544,11 @@ https://github.com/clockfort/GitHub-Backup
 
 Then use that ID to set the Mode to Relative for your stylus:
 
-2. `xsetwacom ---set $STYLUS_ID Mode "Relative"`
+2. `xsetwacom --set $STYLUS_ID Mode "Relative"`
 
 And here's a one-liner that does all that for you:
 
-`STYLUS_ID=$(xinput list | grep Wacom | grep stylus | sed -e 's/.*id=\([0-9]\+\).*/\1/g') && xsetwacom ---set $STYLUS_ID Mode "Relative"`
+`STYLUS_ID=$(xinput list | grep Wacom | grep stylus | sed -e 's/.*id=\([0-9]\+\).*/\1/g') && xsetwacom --set $STYLUS_ID Mode "Relative"`
 
 ## Get all parameters
 
