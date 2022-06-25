@@ -746,6 +746,7 @@ and comment it out the section to disable loading the module.
 72. Rapid Photo Downloader - https://damonlynch.net/rapid/index.html
 73. Draw on screen: `sudo apt install gromit-mpx`
 74. Conky
+75. `sudo apt install fonts-crosextra-carlito fonts-crosextra-caladea`
 
 # Slimbook
 
