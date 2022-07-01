@@ -308,6 +308,8 @@ Set `AutoEnable = false` in `gedit /etc/bluetooth/main.conf` - disable bluetooth
 
 `netstat -natp` - look at TCP connections
 
+`apropos <command>` - explainer of a command
+
 `gsettings set org.gnome.desktop.interface text-scaling-factor 1.01` - probably working command to set font size in top bar
 
 https://extensions.gnome.org/extension/1683/draw-on-you-screen/
