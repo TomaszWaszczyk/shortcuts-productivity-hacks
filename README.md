@@ -1,5 +1,7 @@
 Book: "tmux: Productive Mouse-Free Development"
 
+[Explain Shell](https://explainshell.com/)
+
 # IDEA Intellij
 
 ## Shortcuts
