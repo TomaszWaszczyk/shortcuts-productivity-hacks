@@ -2,6 +2,8 @@ Book: "tmux: Productive Mouse-Free Development"
 
 [Explain Shell](https://explainshell.com/)
 
+https://github.com/doomemacs/doomemacs
+
 # IDEA Intellij
 
 ## Shortcuts
