@@ -771,6 +771,8 @@ and comment it out the section to disable loading the module.
 SystemMaxUse=100M
 ```
 
+`journalctl --disk-usage` - check size of logs
+
 https://easylinuxtipsproject.blogspot.com/p/clean-mint.html
 
 https://easylinuxtipsproject.blogspot.com/p/fatal-mistakes.html#ID4
