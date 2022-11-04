@@ -748,6 +748,7 @@ Section "InputClass"
         Option "VertEdgeScroll" "1"
 EndSection
 `
+70. https://albertlauncher.github.io/
 
 https://nosystemd.org/
 
