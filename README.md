@@ -774,6 +774,7 @@ and comment it out the section to disable loading the module.
 75. `sudo apt install fonts-crosextra-carlito fonts-crosextra-caladea`
 76. The contrib and non-free repos have many useful packages that can’t be found in Debian’s default repositories.
 77. `sudo apt install nala`
+78. `ui.key.menuAccessKeyFocuses = false ` in Firefox
 
 # Slimbook
 
