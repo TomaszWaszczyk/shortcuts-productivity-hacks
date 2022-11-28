@@ -239,6 +239,8 @@ https://learngitbranching.js.org/
 
 `t` - activates the file finder :rocket:
 
+`CTRL + K` - show options on Github page
+
 # Linux
 
 `journalctl -p err..alert` - show errors in the system
