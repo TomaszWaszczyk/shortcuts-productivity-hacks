@@ -357,6 +357,8 @@ Set it/them to whatever you like, close, reopen again...
 
 ## Linux logging and monitoring
 
+`btop` - better `htop`
+
 `journalctl -f` - follow logs
 
 `journalctl --list-boots` - list of boots
