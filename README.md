@@ -3,6 +3,8 @@ Book: "tmux: Productive Mouse-Free Development"
 [Explain Shell](https://explainshell.com/)
 
 https://github.com/doomemacs/doomemacs
+
+https://i3wm.org/
 <!-- 
 
 1. Don't forget to run 'doom sync', then restart Emacs, after modifying
