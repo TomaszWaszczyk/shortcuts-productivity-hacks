@@ -755,6 +755,7 @@ Section "InputClass"
 EndSection
 `
 70. https://albertlauncher.github.io/
+71. `exa`
 
 https://nosystemd.org/
 
