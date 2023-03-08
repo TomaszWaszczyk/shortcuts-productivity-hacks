@@ -245,6 +245,8 @@ https://learngitbranching.js.org/
 
 # Linux
 
+`sudo ss -lptn 'sport = :8080'` or `netstat -puttana | grep PORT` - find the PID of a process using a particular port
+
 `journalctl -p err..alert` - show errors in the system
 
 `journalctl -u <SERVICE_NAME> --since "1 hour ago"` - show logs from SERVICE_NAME service
