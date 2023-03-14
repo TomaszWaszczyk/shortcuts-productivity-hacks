@@ -819,6 +819,8 @@ https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 
 `journalctl -f -u bitcountry-validator.service` - see logs
 
+`sockstat | grep 30333` and `sockstat | grep 30333 | wc -w` - show and calculate connections on given port
+
 # NodeJS
 
 `avn setup` - check versions
