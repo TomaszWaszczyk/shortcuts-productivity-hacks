@@ -428,6 +428,8 @@ In order to get better speed boost, replace find command they use with fd (https
 
 ### Linux logs tracing
 
+`tac` - reverse reading text file
+
 `dmesg | less` - show logs (/var/log/*)
 
 `tail -f /var/log/syslog` - show current logs or `tail -f -n 5 /var/log/syslog`
