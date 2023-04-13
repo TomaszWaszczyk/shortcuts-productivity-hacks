@@ -1,5 +1,7 @@
 Book: "tmux: Productive Mouse-Free Development"
 
+https://github.com/zellij-org/zellij
+
 [Explain Shell](https://explainshell.com/)
 
 https://github.com/doomemacs/doomemacs
