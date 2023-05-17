@@ -7,6 +7,8 @@ https://github.com/zellij-org/zellij
 https://github.com/doomemacs/doomemacs
 
 https://i3wm.org/
+
+smartmontools - check disk
 <!-- 
 
 1. Don't forget to run 'doom sync', then restart Emacs, after modifying
