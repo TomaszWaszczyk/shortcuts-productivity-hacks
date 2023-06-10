@@ -1027,3 +1027,5 @@ https://github.com/collections
 https://getsol.us/solus/about/
 
 https://www.gnu.org/philosophy/
+
+https://syscalls.mebeim.net/
