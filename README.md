@@ -749,6 +749,7 @@ And here's a one-liner that does all that for you:
 67. `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
 
 68. Try disabling automatically switching (set default audio playback device) to hot-plugged audio devices by editing /etc/pulse/default.pa.
+
 69. [MINT XFCE] Enable tap in touchapd:
 
 `sudo gedit /usr/share/X11/xorg.conf.d/50-synaptics.conf` and then:
@@ -763,9 +764,12 @@ Section "InputClass"
 EndSection
 `
 70. https://albertlauncher.github.io/
+
 71. `exa`
 
 https://nosystemd.org/
+
+https://github.com/ajeetdsouza/zoxide
 
 ```
 ### Use hot-plugged devices like Bluetooth or USB automatically (LP: #1702794)
@@ -782,14 +786,23 @@ and comment it out the section to disable loading the module.
 ```
 
 70. Configure scroll wheel in Firefox: `about:config` and look for `mousewheel.min_line_scroll_amount`
+
 71. [OPTIONAL] https://natrongithub.github.io/ - VFX and Motion Graphics
+
 72. Rapid Photo Downloader - https://damonlynch.net/rapid/index.html
+
 73. Draw on screen: `sudo apt install gromit-mpx`
+
 74. Conky
+
 75. `sudo apt install fonts-crosextra-carlito fonts-crosextra-caladea`
+
 76. The contrib and non-free repos have many useful packages that can’t be found in Debian’s default repositories.
+
 77. `sudo apt install nala`
+
 78. `ui.key.menuAccessKeyFocuses = false ` in Firefox
+
 79. MyPaint
 
 # Slimbook
