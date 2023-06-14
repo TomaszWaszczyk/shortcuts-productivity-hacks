@@ -805,6 +805,8 @@ and comment it out the section to disable loading the module.
 
 79. MyPaint
 
+https://www.rsyslog.com/
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
