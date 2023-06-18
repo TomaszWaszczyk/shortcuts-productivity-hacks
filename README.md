@@ -9,6 +9,9 @@ https://github.com/doomemacs/doomemacs
 https://i3wm.org/
 
 smartmontools - check disk
+
+https://jaqque.sbih.org/kplug/apt-pinning.html
+
 <!-- 
 
 1. Don't forget to run 'doom sync', then restart Emacs, after modifying
@@ -763,6 +766,7 @@ Section "InputClass"
         Option "VertEdgeScroll" "1"
 EndSection
 `
+
 70. https://albertlauncher.github.io/
 
 71. `exa`
