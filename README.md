@@ -809,7 +809,9 @@ and comment it out the section to disable loading the module.
 
 79. MyPaint
 
-https://www.rsyslog.com/
+https://www.rsyslog.com
+
+exiftool
 
 # Slimbook
 
