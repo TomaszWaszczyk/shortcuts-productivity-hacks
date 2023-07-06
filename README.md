@@ -695,7 +695,7 @@ And here's a one-liner that does all that for you:
 
 39. [OPTIONCAL] Install ClamTK - antivirus for Linux
 
-40. `sudo apt install ufw` and turn on a firewall - `sudo ufw enable`
+40. `sudo apt install ufw` and turn on a firewall - `sudo ufw enable` (firewalld)
 
 41. `npm completion >> ~/.bashrc` or `npm completion >> ~/.zshrc` - autocompletion for npm in console #cool
 
