@@ -10,6 +10,8 @@ https://i3wm.org/
 
 smartmontools - check disk
 
+https://cpu.land/the-basics
+
 https://jaqque.sbih.org/kplug/apt-pinning.html
 
 <!-- 
