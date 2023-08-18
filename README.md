@@ -772,6 +772,7 @@ EndSection
 70. https://albertlauncher.github.io/
 
 71. `exa`
+72. `export PROMPT_DIRTRIM=1` in `.bashrc`
 
 https://nosystemd.org/
 
