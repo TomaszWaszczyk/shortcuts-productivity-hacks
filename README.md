@@ -772,7 +772,6 @@ EndSection
 70. https://albertlauncher.github.io/
 
 71. `exa`
-72. `export PROMPT_DIRTRIM=1` in `.bashrc`
 
 https://nosystemd.org/
 
@@ -811,6 +810,8 @@ and comment it out the section to disable loading the module.
 78. `ui.key.menuAccessKeyFocuses = false ` in Firefox
 
 79. MyPaint
+
+80. `export PROMPT_DIRTRIM=1` in `.bashrc`
 
 https://www.rsyslog.com
 
