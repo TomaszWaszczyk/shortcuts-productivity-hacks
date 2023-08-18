@@ -368,6 +368,8 @@ Set it/them to whatever you like, close, reopen again...
 
 `export $(cat .env | xargs)` - export env variables
 
+`apt autoremove --purge raspi-firmware` - remove package
+
 ## Linux logging and monitoring
 
 `btop` - better `htop`
