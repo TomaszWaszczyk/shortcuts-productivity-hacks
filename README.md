@@ -819,6 +819,8 @@ https://www.rsyslog.com
 
 exiftool
 
+`ps -auxwf`
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
