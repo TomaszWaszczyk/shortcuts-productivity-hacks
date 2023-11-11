@@ -1,3 +1,5 @@
+`sudo cpupower frequency-set -g performance`
+
 Book: "tmux: Productive Mouse-Free Development"
 
 https://github.com/zellij-org/zellij
