@@ -1047,7 +1047,9 @@ Step 4: Once the Above Command is Executed, Now Reboot your PC if you want or tr
 
 - https://app.clickup.com
 
-- http://mqtt-explorer.com/
+- http://mqtt-explorer.com
+
+- https://webcammictest.com
 
 # Trends
 
