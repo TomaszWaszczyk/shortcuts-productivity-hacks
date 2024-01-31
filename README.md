@@ -1066,3 +1066,5 @@ https://syscalls.mebeim.net/
 https://www.linuxatemyram.com/
 
 # Kung Fu commands
+
+`cat /sys/devices/system/cpu/cpu*/cpuidle/state*/name`
