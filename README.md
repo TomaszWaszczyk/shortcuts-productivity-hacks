@@ -1067,4 +1067,6 @@ https://www.linuxatemyram.com/
 
 # Kung Fu commands
 
+`apropos`
+
 `cat /sys/devices/system/cpu/cpu*/cpuidle/state*/name`
