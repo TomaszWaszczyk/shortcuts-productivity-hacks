@@ -1072,3 +1072,7 @@ https://www.linuxatemyram.com/
 `apropos`
 
 `cat /sys/devices/system/cpu/cpu*/cpuidle/state*/name`
+
+`ps -ef`
+
+`ss -t`
