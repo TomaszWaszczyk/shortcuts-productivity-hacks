@@ -1,5 +1,7 @@
 `sudo cpupower frequency-set -g performance`
 
+`watch sensors`
+
 https://amanusk.github.io/s-tui/
 
 Book: "tmux: Productive Mouse-Free Development"
