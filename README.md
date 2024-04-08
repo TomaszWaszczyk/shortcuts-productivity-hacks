@@ -376,6 +376,8 @@ Set it/them to whatever you like, close, reopen again...
 
 `apt autoremove --purge raspi-firmware` - remove package
 
+`etc` - et-si
+
 ## Linux logging and monitoring
 
 `btop` - better `htop`
