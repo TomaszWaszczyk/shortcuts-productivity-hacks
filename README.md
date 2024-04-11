@@ -2,6 +2,8 @@
 
 `watch sensors`
 
+`cat /sys/kernel/notes | xxd`
+
 https://amanusk.github.io/s-tui/
 
 Book: "tmux: Productive Mouse-Free Development"
