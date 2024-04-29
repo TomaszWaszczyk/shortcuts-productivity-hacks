@@ -831,6 +831,8 @@ exiftool
 
 `ps -auxwf`
 
+https://linuxupskillchallenge.com/#table-of-contents
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
