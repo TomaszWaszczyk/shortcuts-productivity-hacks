@@ -868,6 +868,14 @@ https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html#ID1.9
 
 `sockstat | grep 30333` and `sockstat | grep 30333 | wc -w` - show and calculate connections on given port
 
+# XFCE
+
+`xfce4-goodies`
+
+`xfwm4`
+
+`sudo systemctl restart lightdm`
+
 # NodeJS
 
 `avn setup` - check versions
