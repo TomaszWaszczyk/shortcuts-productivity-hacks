@@ -906,6 +906,8 @@ https://newrelic.com
 
 https://docs.appdynamics.com/display/PRO39/APM+Overview+-+Node.js
 
+Issues with Rust commpilation: ~lack of memory || `thermald` || `lm-sensors`
+
 # Docker
 
 `sudo docker info` - status
