@@ -172,6 +172,8 @@ https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/
 
 # GIT
 
+`git config --global alias.pr "pull --rebase"`
+
 `git config --global credential.helper store` - global storage for Git's credentials
 
 `git branch`
