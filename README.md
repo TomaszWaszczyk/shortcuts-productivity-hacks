@@ -1,5 +1,7 @@
 `sudo cpupower frequency-set -g performance`
 
+`sudo psensor`
+
 `watch sensors`
 
 `cat /sys/kernel/notes | xxd`
