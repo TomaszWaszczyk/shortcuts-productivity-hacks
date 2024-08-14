@@ -837,6 +837,13 @@ exiftool
 
 https://linuxupskillchallenge.com/#table-of-contents
 
+```
+     GUIX_PROFILE="/home/xyz/.guix-profile"
+     . "$GUIX_PROFILE/etc/profile"
+
+Alternately, see `guix package --search-paths -p "/home/xyz/.guix-profile"'.
+```
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
