@@ -749,6 +749,18 @@ And here's a one-liner that does all that for you:
 
 57. https://obsproject.com/ (https://askubuntu.com/questions/72679/is-there-any-sound-enhancers-equalizer)
 
+```
+OpenShot 
+Shotcut 
+Kdenlive
+Flowblade
+Pitivi
+Blender
+VLMC
+OBS Studio
+Olive
+```
+
 58. https://rawtherapee.com/
 
 59. https://www.darktable.org/install/
