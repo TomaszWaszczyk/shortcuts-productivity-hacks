@@ -856,6 +856,8 @@ https://linuxupskillchallenge.com/#table-of-contents
 Alternately, see `guix package --search-paths -p "/home/xyz/.guix-profile"'.
 ```
 
+QR: `sudo apt install zbar-tools` then `zbarcam`
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
