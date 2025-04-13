@@ -703,7 +703,7 @@ And here's a one-liner that does all that for you:
 
 34. [OPTIONAL] Krita
 
-35. [OPTIONAL] `sudo apt-get install xpad` - Sticky Notes
+35. [OPTIONAL] `sudo apt-get install xpad` - Sticky Notes OR https://docs.xfce.org/panel-plugins/xfce4-notes-plugin/start
 
 36. [OPTIONAL] Install MellowPlayer
 
