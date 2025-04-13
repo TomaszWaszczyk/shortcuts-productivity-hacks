@@ -749,6 +749,8 @@ And here's a one-liner that does all that for you:
 
 57. https://obsproject.com/ (https://askubuntu.com/questions/72679/is-there-any-sound-enhancers-equalizer)
 
+FBReader_Book_Reader
+
 ```
 OpenShot 
 Shotcut 
