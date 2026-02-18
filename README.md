@@ -1,3 +1,5 @@
+`sudo kill -9 $(sudo lsof -t -i:8080)`
+
 `sudo cpupower frequency-set -g performance`
 
 `sudo psensor`
