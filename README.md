@@ -801,6 +801,13 @@ Section "InputClass"
 EndSection
 `
 
+`
+tomek@thinkpad:~/Downloads$ xrandr \
+  --output eDP-1   --mode 1920x1080 --rate 60 \
+  --output HDMI-1-0 --mode 1920x1080 --rate 120 \
+  --output DP-1-3   --mode 1920x1080 --rate 120
+`
+
 70. https://albertlauncher.github.io/
 
 71. `exa`
