@@ -869,6 +869,8 @@ Alternately, see `guix package --search-paths -p "/home/xyz/.guix-profile"'.
 
 QR: `sudo apt install zbar-tools` then `zbarcam`
 
+`sudo apt install --only-upgrade cursor`
+
 # Slimbook
 
 `Hold SHIFT` - GRUB menu
